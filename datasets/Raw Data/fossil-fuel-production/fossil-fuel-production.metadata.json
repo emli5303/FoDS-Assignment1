@@ -1,0 +1,62 @@
+{
+  "chart": {
+    "title": "Fossil fuel production",
+    "subtitle": "Measured in terawatt-hours.",
+    "citation": "Energy Institute – Statistical Review of World Energy (2026)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/fossil-fuel-production?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "World"
+    ]
+  },
+  "columns": {
+    "Coal production - TWh": {
+      "titleShort": "Coal production",
+      "titleLong": "Coal production",
+      "shortUnit": "TWh",
+      "unit": "terawatt-hours",
+      "timespan": "1981-2025",
+      "type": "Numeric",
+      "owidVariableId": 1295317,
+      "shortName": "coal_production_twh",
+      "lastUpdated": "2026-06-30",
+      "nextUpdate": "2027-06-30",
+      "citationShort": "Energy Institute – Statistical Review of World Energy (2026) – with major processing by Our World in Data",
+      "citationLong": "Energy Institute – Statistical Review of World Energy (2026) – with major processing by Our World in Data. “Coal production” [dataset]. Energy Institute, “Statistical Review of World Energy” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1295317.metadata.json"
+    },
+    "Oil production - TWh": {
+      "titleShort": "Oil production",
+      "titleLong": "Oil production",
+      "descriptionProcessing": "* Oil production is approximately converted from million tonnes to energy using a standard average oil-equivalent conversion factor of 41.868 petajoules per million tonnes. We then convert 1 petajoule to 0.278 terawatt-hours.",
+      "shortUnit": "TWh",
+      "unit": "terawatt-hours",
+      "timespan": "1965-2025",
+      "type": "Numeric",
+      "owidVariableId": 1295339,
+      "shortName": "oil_production_twh",
+      "lastUpdated": "2026-06-30",
+      "nextUpdate": "2027-06-30",
+      "citationShort": "Energy Institute – Statistical Review of World Energy (2026) – with major processing by Our World in Data",
+      "citationLong": "Energy Institute – Statistical Review of World Energy (2026) – with major processing by Our World in Data. “Oil production” [dataset]. Energy Institute, “Statistical Review of World Energy” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1295339.metadata.json"
+    },
+    "Gas production - TWh": {
+      "titleShort": "Gas production",
+      "titleLong": "Gas production",
+      "descriptionShort": "Excludes gas flared or recycled. Includes natural gas produced for Gas-to-Liquids transformation.",
+      "shortUnit": "TWh",
+      "unit": "terawatt-hours",
+      "timespan": "1970-2025",
+      "type": "Numeric",
+      "owidVariableId": 1295323,
+      "shortName": "gas_production_twh",
+      "lastUpdated": "2026-06-30",
+      "nextUpdate": "2027-06-30",
+      "citationShort": "Energy Institute – Statistical Review of World Energy (2026) – with major processing by Our World in Data",
+      "citationLong": "Energy Institute – Statistical Review of World Energy (2026) – with major processing by Our World in Data. “Gas production” [dataset]. Energy Institute, “Statistical Review of World Energy” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1295323.metadata.json"
+    }
+  },
+  "dateDownloaded": "2026-09-22",
+  "activeFilters": {}
+}
