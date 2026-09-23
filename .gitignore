@@ -1,0 +1,47 @@
+# --- Project data ---
+# Raw speech corpus is downloaded locally per README.txt, not committed (thousands of files)
+datasets/TXT/*
+# Generated/intermediate outputs (large, regenerable by re-running the notebooks)
+datasets/*.parquet
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Testing / linting / type-checking caches ---
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# --- Environment / secrets ---
+.env
+.env.*
+
+# --- Editors / IDEs ---
+.vscode/
+.idea/
+*.swp
+
+# --- OS junk ---
+.DS_Store
+__MACOSX/
+._*
+Thumbs.db
+desktop.ini
+
+# --- Logs ---
+*.log
