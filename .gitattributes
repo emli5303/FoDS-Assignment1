@@ -1,0 +1,1 @@
+datasets/speeches_simple_clean.parquet filter=lfs diff=lfs merge=lfs -text
