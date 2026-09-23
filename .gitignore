@@ -1,47 +1,40 @@
-# --- Project data ---
-# Raw speech corpus is downloaded locally per README.txt, not committed (thousands of files)
-datasets/TXT/*
-# Generated/intermediate outputs (large, regenerable by re-running the notebooks)
-datasets/*.parquet
-
-# --- Python ---
-__pycache__/
-*.py[cod]
-*$py.class
-*.egg-info/
-.eggs/
-build/
-dist/
-
-# --- Virtual environments ---
+# Environments
 .venv/
 venv/
-env/
-ENV/
+__pycache__/
+*.pyc
 
-# --- Jupyter ---
+# Notebook / editor noise
 .ipynb_checkpoints/
-
-# --- Testing / linting / type-checking caches ---
-.pytest_cache/
-.mypy_cache/
-.ruff_cache/
-
-# --- Environment / secrets ---
-.env
-.env.*
-
-# --- Editors / IDEs ---
 .vscode/
 .idea/
-*.swp
 
-# --- OS junk ---
+# OS junk (the corpus zip was made on a Mac - see loader in notebook 01)
 .DS_Store
-__MACOSX/
 ._*
 Thumbs.db
-desktop.ini
 
-# --- Logs ---
-*.log
+# Raw corpus: ~11k speech files, download it yourself (see README)
+datasets/TXT/
+
+# Everything else in dataset/ (xlsx, csv, ungdc_metadata.parquet) is small and IS tracked.
+# Environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Notebook / editor noise
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# OS junk (the corpus zip was made on a Mac - see loader in notebook 01)
+.DS_Store
+._*
+Thumbs.db
+
+# Raw corpus: ~11k speech files, download it yourself (see README)
+datasets/TXT/
+
+# Everything else in dataset/ (xlsx, csv, ungdc_metadata.parquet) is small and IS tracked.
