@@ -1,11 +1,11 @@
 level,group,n,spearman_rho,p_value
-Pooled: mentions vs fossil share (country-years),Top producers,157,-0.3180622688906691,4.920122328906662e-05
+Pooled: mentions vs fossil share (country-years),Major fossil-fuel economies,157,-0.3180622688906691,4.920122328906662e-05
 Pooled: mentions vs fossil share (country-years),Other countries,635,-0.07165007589029812,0.07118631033964962
-Between: mean mentions vs mean fossil share,Top producers,15,-0.4789992976140421,0.07084243920335828
+Between: mean mentions vs mean fossil share,Major fossil-fuel economies,15,-0.4789992976140421,0.07084243920335828
 Between: mean mentions vs mean fossil share,Other countries,58,-0.036021348267022704,0.7883562756570617
-Between: mean mentions vs fossil share trend,Top producers,14,-0.7568761455705593,0.001724932270501534
+Between: mean mentions vs fossil share trend,Major fossil-fuel economies,14,-0.7568761455705593,0.001724932270501534
 Between: mean mentions vs fossil share trend,Other countries,58,-0.0066751772621212015,0.9603371396896859
-Within: country averages removed,Top producers,157,-0.2502185551337651,0.0015743997578747612
+Within: country averages removed,Major fossil-fuel economies,157,-0.2502185551337651,0.0015743997578747612
 Within: country averages removed,Other countries,635,-0.18366679927064444,3.1801612394735865e-06
-Within: country and year averages removed,Top producers,157,-0.11010224113109589,0.16983629104109793
+Within: country and year averages removed,Major fossil-fuel economies,157,-0.11010224113109589,0.16983629104109793
 Within: country and year averages removed,Other countries,635,0.05439864844922958,0.17096308828929416

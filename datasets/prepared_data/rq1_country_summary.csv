@@ -1,4 +1,4 @@
-iso3,country,top_producer,speeches,total_mentions,share_mentioning,mentions_per_1k,first_year,last_year,fossil_share_first,fossil_share_last,fossil_share_mean,fossil_trend_pp_per_year,fossil_share_change
+iso3,country,major_fossil_economy,speeches,total_mentions,share_mentioning,mentions_per_1k,first_year,last_year,fossil_share_first,fossil_share_last,fossil_share_mean,fossil_trend_pp_per_year,fossil_share_change
 ARE,United Arab Emirates,True,11,9,0.6363636363636364,0.4402915531327208,2015,2025,99.97541,90.47492,96.61350945454545,-1.1255253545454544,-9.50049
 ARG,Argentina,False,11,8,0.45454545454545453,0.3874758129589866,2015,2025,91.97601,88.010315,90.51640081818182,-0.3916677727272725,-3.9656949999999966
 AUS,Australia,True,11,27,0.6363636363636364,1.033658293627349,2015,2025,97.05623,92.11152,94.91542227272727,-0.5289302727272734,-4.944710000000001

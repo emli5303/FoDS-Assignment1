@@ -9,7 +9,7 @@ __pycache__/
 .vscode/
 .idea/
 
-# OS junk (the corpus zip was made on a Mac - see loader in notebook 01)
+# OS junk (the corpus zip was made on a Mac - see README section 2.2)
 .DS_Store
 ._*
 Thumbs.db
@@ -17,24 +17,4 @@ Thumbs.db
 # Raw corpus: ~11k speech files, download it yourself (see README)
 datasets/TXT/
 
-# Everything else in dataset/ (xlsx, csv, ungdc_metadata.parquet) is small and IS tracked.
-# Environments
-.venv/
-venv/
-__pycache__/
-*.pyc
-
-# Notebook / editor noise
-.ipynb_checkpoints/
-.vscode/
-.idea/
-
-# OS junk (the corpus zip was made on a Mac - see loader in notebook 01)
-.DS_Store
-._*
-Thumbs.db
-
-# Raw corpus: ~11k speech files, download it yourself (see README)
-datasets/TXT/
-
-# Everything else in dataset/ (xlsx, csv, ungdc_metadata.parquet) is small and IS tracked.
+# Everything else in datasets/ (xlsx, csv, parquet) is small and IS tracked.
