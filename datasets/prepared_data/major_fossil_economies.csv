@@ -1,0 +1,219 @@
+iso3,country,major_fossil_economy
+ABW,Aruba,False
+AFG,Afghanistan,False
+AGO,Angola,False
+ALB,Albania,False
+AND,Andorra,False
+ARE,United Arab Emirates,True
+ARG,Argentina,False
+ARM,Armenia,False
+ASM,American Samoa,False
+ATG,Antigua and Barbuda,False
+AUS,Australia,True
+AUT,Austria,False
+AZE,Azerbaijan,False
+BDI,Burundi,False
+BEL,Belgium,False
+BEN,Benin,False
+BFA,Burkina Faso,False
+BGD,Bangladesh,False
+BGR,Bulgaria,False
+BHR,Bahrain,False
+BHS,"Bahamas, The",False
+BIH,Bosnia and Herzegovina,False
+BLR,Belarus,False
+BLZ,Belize,False
+BMU,Bermuda,False
+BOL,Bolivia,False
+BRA,Brazil,True
+BRB,Barbados,False
+BRN,Brunei Darussalam,False
+BTN,Bhutan,False
+BWA,Botswana,False
+CAF,Central African Republic,False
+CAN,Canada,False
+CHE,Switzerland,False
+CHI,Channel Islands,False
+CHL,Chile,False
+CHN,China,False
+CIV,Cote d'Ivoire,False
+CMR,Cameroon,False
+COD,"Congo, Dem. Rep.",False
+COG,"Congo, Rep.",False
+COL,Colombia,False
+COM,Comoros,False
+CPV,Cabo Verde,False
+CRI,Costa Rica,False
+CUB,Cuba,False
+CUW,Curacao,False
+CYM,Cayman Islands,False
+CYP,Cyprus,False
+CZE,Czechia,False
+DEU,Germany,False
+DJI,Djibouti,False
+DMA,Dominica,False
+DNK,Denmark,False
+DOM,Dominican Republic,False
+DZA,Algeria,True
+ECU,Ecuador,False
+EGY,"Egypt, Arab Rep.",False
+ERI,Eritrea,False
+ESP,Spain,False
+EST,Estonia,False
+ETH,Ethiopia,False
+FIN,Finland,False
+FJI,Fiji,False
+FRA,France,False
+FRO,Faroe Islands,False
+FSM,"Micronesia, Fed. Sts.",False
+GAB,Gabon,False
+GBR,United Kingdom,False
+GEO,Georgia,False
+GHA,Ghana,False
+GIB,Gibraltar,False
+GIN,Guinea,False
+GMB,"Gambia, The",False
+GNB,Guinea-Bissau,False
+GNQ,Equatorial Guinea,False
+GRC,Greece,False
+GRD,Grenada,False
+GRL,Greenland,False
+GTM,Guatemala,False
+GUM,Guam,False
+GUY,Guyana,False
+HKG,"Hong Kong SAR, China",False
+HND,Honduras,False
+HRV,Croatia,False
+HTI,Haiti,False
+HUN,Hungary,False
+IDN,Indonesia,True
+IMN,Isle of Man,False
+IND,India,False
+IRL,Ireland,False
+IRN,"Iran, Islamic Rep.",True
+IRQ,Iraq,True
+ISL,Iceland,False
+ISR,Israel,False
+ITA,Italy,False
+JAM,Jamaica,False
+JOR,Jordan,False
+JPN,Japan,False
+KAZ,Kazakhstan,True
+KEN,Kenya,False
+KGZ,Kyrgyz Republic,False
+KHM,Cambodia,False
+KIR,Kiribati,False
+KNA,St. Kitts and Nevis,False
+KOR,"Korea, Rep.",False
+KWT,Kuwait,True
+LAO,Lao PDR,False
+LBN,Lebanon,False
+LBR,Liberia,False
+LBY,Libya,False
+LCA,St. Lucia,False
+LIE,Liechtenstein,False
+LKA,Sri Lanka,False
+LSO,Lesotho,False
+LTU,Lithuania,False
+LUX,Luxembourg,False
+LVA,Latvia,False
+MAC,"Macao SAR, China",False
+MAF,St. Martin (French part),False
+MAR,Morocco,False
+MCO,Monaco,False
+MDA,Moldova,False
+MDG,Madagascar,False
+MDV,Maldives,False
+MEX,Mexico,True
+MHL,Marshall Islands,False
+MKD,North Macedonia,False
+MLI,Mali,False
+MLT,Malta,False
+MMR,Myanmar,False
+MNE,Montenegro,False
+MNG,Mongolia,False
+MNP,Northern Mariana Islands,False
+MOZ,Mozambique,False
+MRT,Mauritania,False
+MUS,Mauritius,False
+MWI,Malawi,False
+MYS,Malaysia,False
+NAM,Namibia,False
+NCL,New Caledonia,False
+NER,Niger,False
+NGA,Nigeria,False
+NIC,Nicaragua,False
+NLD,Netherlands,False
+NOR,Norway,True
+NPL,Nepal,False
+NRU,Naoero,False
+NZL,New Zealand,False
+OMN,Oman,False
+PAK,Pakistan,False
+PAN,Panama,False
+PER,Peru,False
+PHL,Philippines,False
+PLW,Palau,False
+PNG,Papua New Guinea,False
+POL,Poland,False
+PRI,Puerto Rico (US),False
+PRK,"Korea, Dem. People's Rep.",False
+PRT,Portugal,False
+PRY,Paraguay,False
+PSE,West Bank and Gaza,False
+PYF,French Polynesia,False
+QAT,Qatar,True
+ROU,Romania,False
+RUS,Russian Federation,True
+RWA,Rwanda,False
+SAU,Saudi Arabia,True
+SDN,Sudan,False
+SEN,Senegal,False
+SGP,Singapore,False
+SLB,Solomon Islands,False
+SLE,Sierra Leone,False
+SLV,El Salvador,False
+SMR,San Marino,False
+SOM,"Somalia, Fed. Rep.",False
+SRB,Serbia,False
+SSD,South Sudan,False
+STP,Sao Tome and Principe,False
+SUR,Suriname,False
+SVK,Slovak Republic,False
+SVN,Slovenia,False
+SWE,Sweden,False
+SWZ,Eswatini,False
+SXM,Sint Maarten (Dutch part),False
+SYC,Seychelles,False
+SYR,Syrian Arab Republic,False
+TCA,Turks and Caicos Islands,False
+TCD,Chad,False
+TGO,Togo,False
+THA,Thailand,False
+TJK,Tajikistan,False
+TKM,Turkmenistan,False
+TLS,Timor-Leste,False
+TON,Tonga,False
+TTO,Trinidad and Tobago,False
+TUN,Tunisia,False
+TUR,Turkiye,False
+TUV,Tuvalu,False
+TWN,Taiwan,False
+TZA,Tanzania,False
+UGA,Uganda,False
+UKR,Ukraine,False
+URY,Uruguay,False
+USA,United States,False
+UZB,Uzbekistan,False
+VCT,St. Vincent and the Grenadines,False
+VEN,"Venezuela, RB",False
+VGB,British Virgin Islands,False
+VIR,Virgin Islands (U.S.),False
+VNM,Viet Nam,False
+VUT,Vanuatu,False
+WSM,Samoa,False
+XKX,Kosovo,False
+YEM,"Yemen, Rep.",False
+ZAF,South Africa,True
+ZMB,Zambia,False
+ZWE,Zimbabwe,False
