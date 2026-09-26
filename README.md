@@ -131,6 +131,7 @@ datasets/
   Speakers_by_session.xlsx, UNSD — Methodology.csv
 figures/                figures saved by notebooks 04–06
 notebooks/              01–06, see above
-report.tex              the report
+latex/                  LaTeX source of the report (git-ignored; compiled on Overleaf)
+latex-changes.md        log of all edits to the report, as find → replace blocks
 requirements.txt
 ```
