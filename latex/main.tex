@@ -4,165 +4,135 @@
 \begin{document}
 \title{\includegraphics[scale=0.6]{university-of-amsterdam.png}\\{Do countries practice what they preach?}}
 \subtitle{Assignment 1 - Fundamentals of Data Science}
-\author{Emmi Lidman \and Michail Mavrokoukoulakis \and Vaamika Rajsingh\ \and Sem de Regt}
+\author{Emmi Lidman \and Michail Mavrokoukoulakis \and Vaamika Rajsingh \and Sem de Regt}
 \institute{University of Amsterdam\\
 \today}
 \maketitle
 \newpage
-\begin{abstract} ... \keywords{UN General Debate \and SDGs \and NLP} \end{abstract}
+\begin{abstract}
+Countries use the UN General Debate to present their climate ambitions, but do their words match their actions? Linking the 2026 theme, ``Restoring trust, managing transformation'', to SDG~13, we combine 2{,}128 General Debate speeches given since the 2015 Paris Agreement with World Bank fossil-fuel rents and Our World in Data energy data. Among 15 major fossil-fuel economies, i.e.\ large producers whose economies depend on fossil fuels, those that talk more about the energy transition reduced the fossil share of their energy mix faster (Spearman $\rho = -0.76$, $p = 0.002$), a difference between countries rather than a year-to-year link. However, neither how often nor how cautiously a country talks about the transition predicts the change in its fossil-fuel production over the following year: no model improves the test RMSE of a mean baseline by more than 1\%. Transition talk goes with changes in a country's own energy use, not in what it produces.
+\keywords{UN General Debate \and SDG 13 \and Energy transition \and Fossil fuels \and NLP}
+\end{abstract}
 \section{Introduction}
-Every September, representatives of the UN member states gather in New York for the general debate of the United Nations General Assembly. There, heads of state and senior officials present their government's view on the most pressing of matters in world politics. These statements are delivered annually by nearly every country in the world and they form a unique record of how countries wish to present themselves to the international community. Every general debate has a theme, and the theme of this years 81st session in 2026 is \textit{"Leaving no one behind: acting together for the advancement of peace, sustainable development and human dignity for present and future generations."}.
+Every September, heads of state and senior officials present their government's view on world politics in the general debate of the UN General Assembly. Delivered by nearly every country, these statements form a unique record of how countries wish to present themselves to the international community. The theme of this year's 81st session is \textit{``Restoring trust, managing transformation''}.
 
-This years theme is closely linked to Sustainable Development Goal 13 (SGD-13), \textit{"Take urgent action to combat climate change and its impacts"}, which on countries to integrate climate change measures into national policies and strategies, and under the 2015 Paris Agreement nearly all states have made public climate pledges. Trust in these commitments, however, depends on whether words are followed by action. Climate change has become a recurring topic in the General Debate, but it is unclear to what extent the attention a country gives to climate in its speeches reflects its actual emissions and energy transition. In other words, do they practice what they preach?
+We link this theme to Sustainable Development Goal~13 (SDG~13), \textit{``Take urgent action to combat climate change and its impacts''}, in particular to target~13.2, which calls on countries to integrate climate change measures into national policies. Under the 2015 Paris Agreement nearly all states made public climate pledges, and the transition away from fossil fuels is one of the largest transformations that governments now have to manage. Trust in these pledges depends on whether words are followed by action: does the attention a country gives to the energy transition in its speeches reflect what it does with its energy mix and its fossil-fuel production? In other words, do countries practice what they preach?
 
-In this report, we combine the UN General Debate Corpus (UNGDC) \cite{jankin2025words}\cite{baturo2017understanding}, which contains the statements from every General Debate session from 1946 to 2025, with coal, natural gas, and oil rents from the World Bank \cite{worldbank_wdi_coal}\cite{worldbank_wdi_gas}\cite{worldbank_wdi_oil}, as well as two datasets from Our World in Data (OWID): one on countries' energy mixes \cite{owid-energy-mix} and one on fossil-fuel production \cite{owid-fossil-fuel-production}, to address two questions:
+We combine the UN General Debate Corpus (UNGDC) \cite{jankin2025words,baturo2017understanding} with World Bank fossil-fuel rents \cite{worldbank_wdi_coal,worldbank_wdi_gas,worldbank_wdi_oil} and two Our World in Data (OWID) datasets on energy mix \cite{owid-energy-mix} and fossil-fuel production \cite{owid-fossil-fuel-production} to address two questions:
 
 \begin{enumerate}
-    \item[\textbf{RQ1}] \textit{(Exploratory)} [What is the correlation between the frequency of energy transition related mentions by the world's top fossil-fuel-producing countries in their UN General Debate speeches and their fossil fuel consumption following the 2015 Paris Agreement?]
-    \item[\textbf{RQ2}] \textit{(Predictive)} [Does how a country talks about the energy transition — how often, and how cautiously — predict whether its fossil fuel production rises or falls since the Paris Agreement, and is that relationship different for major exporters than for everyone else?
-]
+    \item[\textbf{RQ1}] \textit{(Exploratory)} Among the world's major fossil-fuel economies, how does the frequency of energy-transition mentions in their UN General Debate speeches correlate with the fossil-fuel share of their primary energy consumption after the 2015 Paris Agreement?
+    \item[\textbf{RQ2}] \textit{(Predictive)} Can how a country talks about the energy transition at the UN---how often, and how cautiously---predict the change in its fossil-fuel production over the following year, and is that relationship different for the major fossil-fuel economies?
 \end{enumerate}
 
-\section{Methodology} 
-\subsection{UN General Debate Corpus} 
+\emph{Major fossil-fuel economies} are the countries in the top quartile of both fossil-fuel production and fossil-fuel rents: large producers whose economies depend on fossil fuels. RQ1 asks whether their talk and their domestic energy mix move together. RQ2 was refined after this exploratory analysis: since a country can make its own energy use greener while producing as much fossil fuel as before, it asks whether the speeches carry information about future \emph{production}.
 
-Our base dataset is the United Nations General Debate Corpus, which contains the statements delivered in
-the General Debate from Session~1 (1946) to Session~80 (2025). Each statement
-is stored as a separate text file whose name encodes the country's ISO-alpha3
-code, the session number and the year. Our pre-processing of this corpus is
-deliberately light: every step is there because a later step of the analysis
-requires it, and we do not apply standard cleaning steps that our method does
-not need.
+\section{Methodology}
+\subsection{Data and pre-processing}
+The UNGDC contains 11{,}141 speeches from 200 countries and entities (1946--2025), one text file per speech named after the country's ISO-3 code, the session and the year. We added regions from the UN M49 standard with a left join (the 150 speeches of former states and the European Union have none), rejoined 7{,}891 words that had been hyphenated across line breaks during digitisation, since our method searches for exact phrases, and collapsed all whitespace. We deliberately did not lowercase the text or remove punctuation or stop words: sentence splitting needs capital letters and full stops, our matching already ignores case, and stop-word lists remove words such as \textit{will}, \textit{may} and \textit{could}, which are exactly the words that signal commitment or caution. Speech length (median 2{,}550 words) is used to normalise mention counts.
 
-\subsubsection{Loading.}
-We read all files into a single table with one row per speech, resulting in
-11{,}141 speeches from 200 countries and entities.
+From the World Bank we use oil, coal and natural gas rents as a percentage of GDP \cite{worldbank_wdi_oil,worldbank_wdi_coal,worldbank_wdi_gas}, summed into total fossil-fuel rents, a measure of how economically dependent a country is on fossil fuels. From OWID we use the share of primary energy consumption that comes from fossil fuels \cite{owid-energy-mix} and the production of coal, oil and gas in TWh \cite{owid-fossil-fuel-production}. We reshaped the World Bank files from one column per year to one row per country-year with \texttt{pandas.melt}, removed aggregate rows such as ``World'' (using the World Bank country metadata, and keeping only OWID rows with a valid ISO-3 code), and merged all sources into one country-year panel keyed on ISO-3 code and year, like the speeches. The rents end in 2021, and OWID covers only 79 (energy mix) and 73 (production) countries; all 15 major fossil-fuel economies are included, although OWID covers Iraq's energy mix only for 2017--2019.
 
-\subsubsection{Metadata.}
-We added each country's name, region and sub-region from the UN Statistics
-Division M49 standard, so that countries can be compared across
-regions. We used a left join so that no speech is lost. For 150 speeches no
-region was found; these belong to states that no longer exist
-(Czechoslovakia, East Germany, South Yemen and Yugoslavia) and to the European
-Union, which speaks as an observer. We kept them in the corpus and exclude
-them only where a region or country-level indicator is required.
+\subsection{Measuring transition talk}\label{sec:talk}
+We use the 2{,}128 speeches given since 2015. \emph{Transition mentions} are counted with 22 case-insensitive regular expressions (e.g.\ \textit{energy transition}, \textit{renewable energy}, \textit{net zero}, \textit{decarbonisation}, \textit{phasing out fossil fuels}), which exclude broader terms such as \textit{climate change}, and are expressed per 1{,}000 words; the median speech contains none. \emph{Net caution} captures how countries talk about the transition: within 15 words of each mention we count hedging phrases (22, e.g.\ \textit{we are considering}, \textit{gradually}) and commitment phrases (20, e.g.\ \textit{we will}, \textit{we pledge}), and take hedges minus commitments per mention (0 for speeches without a mention). A version that uses the whole sentence around a mention agrees well with it (Pearson $r = 0.68$), but a grammar-based version that counts spaCy-tagged modal verbs (\textit{may}, \textit{could} against \textit{will}, \textit{must}) agrees only weakly ($r = 0.13$), and the signal is sparse: only 3.6\% of the speeches in the predictive sample have a non-zero net caution.
 
-\subsubsection{Text normalisation.}
-The speeches were digitised from printed documents, so some words are split
-across two lines with a hyphen (e.g.\ ``in-vestment''). Because our method
-searches for specific words and phrases, such split words would not be found.
-We rejoined 7{,}891 of these words and replaced all tabs, line breaks and
-repeated spaces with a single space.
-
-\subsubsection{Steps we deliberately omitted.}
-We did not convert the text to lowercase, remove punctuation or remove stop
-words, although these are common steps in text analysis. Splitting a speech
-into sentences relies on capital letters and full stops, and our phrase
-matching already ignores case. More importantly, standard stop-word lists
-remove words such as \textit{will}, \textit{may} and \textit{could}. These are
-exactly the words that signal commitment or caution, so removing them would
-erase what we want to measure. Since our method only counts words and phrases
-that we define ourselves, filtering out other words has no benefit.
-
-\subsubsection{Speech length.}
-Speeches range from 423 to 22{,}003 words (median 2{,}550). Since a longer
-speech naturally contains more mentions of any topic, we recorded the length
-of each speech in words, which allows us to express mentions relative to
-speech length.
-
-\subsubsection{Validation.}
-Finally, we checked that the number of speeches did not change during the
-merges, that every combination of country and year appears only once, and
-that no speech became empty after cleaning.
-
-
-\subsection{External datasets}
-In addition to the UN General Debate Corpus, we used five external datasets. Three come from the World Bank's World Development Indicators and report oil, coal, and natural gas rents as a percentage of GDP per country per year \cite{worldbank_wdi_oil} \cite{worldbank_wdi_coal}\cite{worldbank_wdi_gas}, which we use as a measure of how economically dependent a country is on fossil fuels. The other two come from Our World in Data (OWID): the share of primary energy consumption that comes from fossil fuels \cite{owid-energy-mix}, and the annual production of coal, oil, and gas (in TWh) per country \cite{owid-fossil-fuel-production}.
-
-\subsubsection{Loading}
-All five datasets were loaded from CSV files into pandas DataFrames. The World Bank files required extra handling: each begins with four metadata rows, which we skipped, and stores the data in wide format, with one row per country and one column per year (1960--2025). The OWID files were already in long format, with one row per country-year.
-
-\subsubsection{Cleaning and converting}
-To combine the datasets with each other and with the speech data, which is organized per country per year, we converted all of them to the same long format. We reshaped each World Bank file with \texttt{pandas.melt}, keeping only the country name, ISO-3 code, year, and indicator value, and merged the three indicators on country, ISO-3 code, and year, so that each row holds the oil, coal, and gas rents of one country-year. These were also summed into a single total fossil-fuel rents variable.
-
-Both sources also contain aggregate rows, such as ``World'', ``European Union'', or ``Middle East \& North Africa'', which do not correspond to a country that delivers a speech. For the World Bank data, we removed these using the accompanying country metadata file, in which aggregates have no region assigned; for the OWID data, we kept only rows with a valid three-letter ISO-3 code, since OWID assigns aggregates custom codes such as \texttt{OWID\_WRL}. We renamed the OWID columns to match the World Bank data (e.g.\ \texttt{Entity} $\rightarrow$ \texttt{country}, \texttt{Code} $\rightarrow$ \texttt{iso3}) and finally merged all three sources into one country-year panel keyed on ISO-3 code and year, the same identifiers used for the speeches in the corpus.
-
-\subsubsection{Caveats}
-The World Bank rent data is only complete up to 2021; values from 2022 onwards are missing due to reporting delays. The OWID datasets cover only 79 (energy mix) and 73 (production) countries, because their underlying source, the Energy Institute's \textit{Statistical Review of World Energy}, only reports on major energy-producing and -consuming countries. Neither caveat substantially limits our analysis: the post-2015 period is largely covered, and the 19 largest fossil-fuel producers, on which our questions focus, are all included in both OWID datasets.
-
-\subsection{Exploratory Data Analysis}
-To answer our first research question: What is the correlation between the frequency of energy transition related mentions by the world's top fossil-fuel-producing countries in their UN General Debate speeches and their fossil fuel consumption following the 2015 Paris Agreement? We needed Exploratory data analysis.
-
-\subsubsection{Defining world's top fossil-fuel-producing countries}
-To define the world's top fossil-fuel-producing countries after 2015 we explored our external data sets to find which countries produced the most fossil fuels. To find these countries we looked which countries had the highest production of fossil fuels in twh from the OIWD dataset, and which had a high rent of GDP of fossil fuel exports. To define what was a high production of fossil fuels we took the top quartile producers from the OIWD data set which got cut off at 1642.66twh production and which resulted in 19 major fossil fuel producers. 
+\subsection{Exploratory analysis (RQ1)}\label{sec:eda}
+\subsubsection{Defining the major fossil-fuel economies.}
+We describe each country by its mean fossil-fuel production and rents over 2015--2021, the longest period both cover. Rents measure how much an economy \emph{depends} on fossil fuels, not how much it exports. A major fossil-fuel economy is in the top quartile of both: at least 1{,}643~TWh per year (19 of 73 countries) and rents of at least 1.40\% of GDP (51 of 202). This gives 15 countries (Fig.~\ref{fig:groups}): Algeria, Australia, Brazil, Indonesia, Iran, Iraq, Kazakhstan, Kuwait, Mexico, Norway, Qatar, Russia, Saudi Arabia, South Africa and the United Arab Emirates (UAE). The rule deliberately leaves out large but diversified producers, namely the United States (0.45\% of GDP), China (0.91\%), Canada (1.35\%) and India (1.30\%), because dependent producers have the strongest incentive to say one thing and do another; Venezuela has no rent data.
 
 \begin{figure}[htbp]
     \centering
-    \includegraphics[width=0.8\textwidth]{output.png}
-    \caption{world's top fossil-fuel-producing countries after 2015}
-    \label{fig:plot}
+    \includegraphics[width=\textwidth]{eda_major_fossil_economies.png}
+    \caption{Mean fossil-fuel production and rents per country, 2015--2021 (logarithmic axes). Dashed lines: top-quartile cut-offs; shaded region: the 15 major fossil-fuel economies.}
+    \label{fig:groups}
 \end{figure}
 
-To ensure we got the biggest fossil-fuel-producing countries we also intersected it with the biggest exporters of fossil fuels which where determined in a similar fashion. With the rents data we can determine which countries can be seen as the worlds top exporters of fossil fuels here we also took the top quartile exporters which were countries with or more than 1.40\% of GDP which led to 51 major fossil fuel exporters.
+\subsubsection{Measuring the relationship.}
+We relate mentions per 1{,}000 words to the fossil-fuel share of primary energy for the 792 country-years since 2015 with both values (73 countries; 157 country-years of major fossil-fuel economies) using Spearman's $\rho$, which suits the zero-inflated mention rate and the small number of countries, separately for the major fossil-fuel economies and the 58 other countries. We compute $\rho$ \emph{pooled} over country-years; \emph{between} countries, relating each country's mean mention rate to its mean fossil share and to its fossil-share \emph{trend} (the slope of a line through its yearly values, in percentage points per year; Iraq has none); and \emph{within} countries, after subtracting country means and then also year means, which removes shared trends such as the general rise in climate talk. We check robustness by leaving out one country at a time and by dropping the countries at the 99\% fossil ceiling.
 
-\begin{figure}[htbp]
-    \centering
-    \includegraphics[width=0.8\textwidth]{exporters.png}
-    \caption{world's top fossil-fuel-exporting countries after 2015}
-    \label{fig:plot}
-\end{figure}
+\subsection{Predictive analysis (RQ2)}\label{sec:predictive}
+Because the General Debate takes place in September, we pair the speech of year~$t$ with the relative change in fossil-fuel production from year~$t$ to $t+1$ (consecutive years only). The features are mentions per 1{,}000 words, net caution, a major-fossil-economy indicator, and the interactions of both speech measures with that indicator, which test whether the relationship differs for these countries; the speech measures are centred on their training means. The 716 country-years (73 countries, speeches from 2015--2024) are split chronologically into training data (2015--2022, 573 country-years, 80\%) and test data (2023--2024, 143), and the target is winsorised at the 1st and 99th percentiles of the training data ($-39.8\%$ and $+67.7\%$).
 
-When we intersected the two groups we got 15 countries classified as major producers of fossil fuel. These are the countries which are present in both groups and can be seen as the worlds biggest fossil-fuel-producing countries.
+\subsubsection{Inference.} We fit OLS on the training data. A Breusch--Pagan test rejects constant error variance (LM~$= 11.50$, $p = 0.042$), and the same countries recur every year, so we use standard errors clustered by country, report HC3 and classic ones for comparison, and test the four speech terms jointly.
+
+\subsubsection{Prediction.} We compare a baseline that predicts the training mean, a linear model with only the group indicator, the full linear model, a ridge regression and a random forest. Hyperparameters are tuned, and the final model is selected, by time-ordered cross-validation within the training years (four folds, each validating on the year after its training years, 2019--2022); the test set is used only once.
+
+\section{Results \& Discussion}\label{sec:results}
+\subsection{RQ1: transition talk and the energy mix}
+Transition talk became common only recently: until 2018, at most about one in five speeches mentioned it. The other countries jumped first, in 2019 (UN Climate Action Summit), the major fossil-fuel economies in 2021 (COP26), and since then the latter have mentioned the transition more often (73\% against 44\% of speeches in 2023, when the UAE hosted COP28). Among them, Brazil, Australia, Norway and Kazakhstan talk most, while Russia and Algeria did not mention the transition once in eleven speeches.
 
 \begin{table}[htbp]
     \centering
-    \caption{Major fossil fuel producing countries after 2015.}
-    \label{tab:major_producers}
-    \begin{tabular}{ll}
+    \caption{Spearman correlations between mentions per 1{,}000 words and the fossil-fuel share of primary energy, 2015--2025, for the 15 major fossil-fuel economies (Major) and 58 other countries (Other). \emph{Between}: country means against the mean fossil share (level) or its trend. \emph{Within}: after removing country means, or country and year means.}
+    \label{tab:rq1}
+    \begin{tabular}{lrrrrrr}
         \toprule
-        ISO3 & Country \\
+         & \multicolumn{3}{c}{Major} & \multicolumn{3}{c}{Other} \\
+        \cmidrule(lr){2-4}\cmidrule(lr){5-7}
+        Level & $\rho$ & $p$ & $n$ & $\rho$ & $p$ & $n$ \\
         \midrule
-        ARE & United Arab Emirates \\
-        AUS & Australia \\
-        BRA & Brazil \\
-        DZA & Algeria \\
-        IDN & Indonesia \\
-        IRN & Iran, Islamic Rep. \\
-        IRQ & Iraq \\
-        KAZ & Kazakhstan \\
-        KWT & Kuwait \\
-        MEX & Mexico \\
-        NOR & Norway \\
-        QAT & Qatar \\
-        RUS & Russian Federation \\
-        SAU & Saudi Arabia \\
-        ZAF & South Africa \\
+        Pooled & $-0.32$ & $<0.001$ & 157 & $-0.07$ & 0.071 & 635 \\
+        Between: level & $-0.48$ & 0.071 & 15 & $-0.04$ & 0.788 & 58 \\
+        Between: trend & $-0.76$ & 0.002 & 14 & $-0.01$ & 0.960 & 58 \\
+        Within: country & $-0.25$ & 0.002 & 157 & $-0.18$ & $<0.001$ & 635 \\
+        Within: country + year & $-0.11$ & 0.170 & 157 & 0.05 & 0.171 & 635 \\
         \bottomrule
     \end{tabular}
 \end{table}
 
-\subsection{Predictive analysis}
-To answer the predictive question and therefore asses whether countries rhetoric on the energy transition is reflected in their actual fossil fuel production, three sources were combined: year-over-year change in total fossil fuel production, a classification of major fossil fuel exporting countries as well as two speech-derived measures from the UNGDC corpus which included mention rate (the frequency of energy-transition-related keywords, normalized by speech length) along with net caution (hedging derived from lexicon-and grammar-based detection). Because the transition-rhetoric measures are only meaningfully defined for speeches from 2015, the year of the Paris Agreement, after which such rhetoric becomes common in diplomatic discourse, the analytic sample was restricted to this period. The final merged dataset containing all features and the target yielded 787 country-year observations. 
+Table~\ref{tab:rq1} shows the correlations. The clearest result is between countries: the major fossil-fuel economies that talk more about the transition cut their fossil share fastest ($\rho = -0.76$, $p = 0.002$, $n = 14$; Fig.~\ref{fig:trend}). Brazil, Norway, Australia and the UAE talk and cut; Algeria, Iran, Kuwait, Mexico and Russia hardly talk and barely changed; Kazakhstan talks about as much as Norway but stayed at about 98\% fossil energy. The result is robust: leaving out any one country keeps $\rho$ between $-0.84$ and $-0.72$, dropping the four countries at the 99\% ceiling still gives $\rho = -0.67$ ($p = 0.033$), and $p = 0.002$ survives a Bonferroni correction for the ten correlations. Among the other countries, talk and energy mix are unrelated. Within countries, the negative correlation disappears once year means are removed: it reflected a trend shared by all countries, so the link concerns \emph{which} countries transition, not \emph{when}. With 14 countries this is no proof of causation, since countries whose energy mix is already changing may simply have more progress to report, and the fossil share describes a country's own energy use, not what it produces for export.
 
-The target variable, production change, was winsorised at the 1st and 99th percentiles to limit the influence of extreme year-over-year swings, that is countries beginning or creasing production, without discarding observations. Mention rate and net caution were mean-centered and interaction terms with exporter status were included in to test whether the relationship between rhetoric and production differs for major exporters. The data was split chronologically rather than randomly to reflect the time structure of the data and to avoid future information from leaking into training. The training data used the earliest 80\% of the data and the test data used the remaining 20\%. To fit the data an Ordinary Least Squares regression model was used and initial residual diagnostics showed strong non-normality with for instance a skewness of 3.62 and a kurtosis of 31.4. This indicated heteroskedasticity, the spread of errors in the model weren't constant across the values, and the model was therefore refit using heteroskedasticity-consistent (HC3) standard errors. 
-
-\section{Results \& Discussion}
-Figure ~\ref{fig:ols_results} reports the coefficient estimates under HC3 standard errors. None of the predictors reached statistical significance at conventional thresholds, exporter status ($\beta = 0.017, p = 0.130$), mention rate ($\beta = 24.08, p = 0.494$), net caution ($\beta = 0.068, p = 0.278$), and their interactions with exporter status (mention rate $\cdot$ exporter and net caution $\cdot$ exporter) were all statistically indistinguishable from zero. The model as a whole was also not significant and explains almost non of the variance in production change ($R^2 = 0.0201$). 
-
-Notably, mention rate initially appeared marginally significant under standard OLS errors ($p = 0.047$), however this did not survive correction for heteroskedasticity once the residual diagnostics indicated that the constant variance assumption was violated. 
-
-On the test set the model achieved an Root Mean Squared Error (RMSE) of 0.1528 and an $R^2$ of 0.0201, indicating it explains only a small fraction of variance beyond the sample mean. Looking at the scores together after HC3 standard errors, there are no findings of evidence that transition-related rhetoric or exporter status predicts following fossil fuel production change in this sample. This may, as discussed above, partly reflect limited statistical power given the heavily zero-inflated mention rate variable with a median of 0, or possibly a genuine disconnect between diplomatic rhetoric and material production. 
-
-\begin{figure}
+\begin{figure}[htbp]
     \centering
-    \includegraphics[width=0.5\linewidth]{ols_results.png}
-    \caption{OLS Regression results}
-    \label{fig:ols_results}
+    \includegraphics[width=\textwidth]{rq1_talk_vs_fossil_trend.png}
+    \caption{Mean mentions per 1{,}000 words against the trend in the fossil-fuel share of primary energy (percentage points per year, 2015--2025), one dot per country; Iraq has no trend.}
+    \label{fig:trend}
 \end{figure}
 
-\section{Conclusion}
+\subsection{RQ2: predicting fossil-fuel production}
+None of the four speech terms is significant under any type of standard error (Table~\ref{tab:rq2coef}; all $p > 0.2$), and neither are they jointly ($p = 0.64$ classic, $0.67$ HC3, $0.095$ clustered), so there is also no evidence that the relationship differs for the major fossil-fuel economies. Only the group indicator is borderline: their production grew about 2.2 percentage points per year faster ($p = 0.056$ clustered, but $0.014$ HC3 and $0.125$ classic). The model explains almost nothing (training $R^2 = 0.009$).
 
-\section{References}
+\begin{table}[htbp]
+    \centering
+    \caption{OLS coefficients for next year's relative change in fossil-fuel production (training data, $n = 573$; speech measures centred). $p$-values for country-clustered (73 clusters), HC3 and classic standard errors.}
+    \label{tab:rq2coef}
+    \begin{tabular}{lrrrrr}
+        \toprule
+         & & \multicolumn{2}{c}{Clustered} & HC3 & Classic \\
+        \cmidrule(lr){3-4}
+        Term & Coef. & SE & $p$ & $p$ & $p$ \\
+        \midrule
+        Constant & $-0.014$ & 0.010 & 0.194 & 0.059 & 0.036 \\
+        Major fossil-fuel economy & 0.022 & 0.011 & 0.056 & 0.014 & 0.125 \\
+        Mentions per 1{,}000 words & $-0.013$ & 0.017 & 0.455 & 0.459 & 0.243 \\
+        Net caution & 0.065 & 0.067 & 0.329 & 0.429 & 0.394 \\
+        Mentions $\times$ major & 0.016 & 0.020 & 0.410 & 0.400 & 0.467 \\
+        Net caution $\times$ major & $-0.082$ & 0.067 & 0.224 & 0.338 & 0.450 \\
+        \bottomrule
+    \end{tabular}
+\end{table}
+
+The model comparison (Table~\ref{tab:rq2models}) confirms this. Cross-validation selects the linear model with only the group indicator, which improves the test RMSE over the mean baseline by less than 1\% (0.1380 against 0.1387). Adding the speech features makes the predictions worse (RMSE 0.1417), the ridge regression shrinks to the baseline, and the random forest finds no useful pattern (RMSE 0.1384). Speeches therefore do not predict next year's production change. One-year changes are driven mostly by prices, OPEC+ quotas, the pandemic and the 2022 energy crisis, and 72\% of the speeches never mention the transition, which limits the power to detect a weak effect.
+
+\begin{table}[htbp]
+    \centering
+    \caption{Model comparison for RQ2: mean RMSE over the four time-ordered CV folds, and test metrics for 2023--2024 ($n = 143$). Tuned: ridge $\alpha = 10{,}000$; random forest depth 5, minimum leaf size 20. Bold: selected by CV RMSE.}
+    \label{tab:rq2models}
+    \begin{tabular}{lrrrr}
+        \toprule
+        Model & CV RMSE & Test RMSE & Test MAE & Test $R^2$ \\
+        \midrule
+        Baseline (mean) & 0.1477 & 0.1387 & 0.0883 & $-0.006$ \\
+        \textbf{Linear, indicator only} & \textbf{0.1475} & \textbf{0.1380} & \textbf{0.0877} & \textbf{0.003} \\
+        Linear, all features & 0.1532 & 0.1417 & 0.0898 & $-0.050$ \\
+        Ridge & 0.1478 & 0.1387 & 0.0883 & $-0.007$ \\
+        Random forest & 0.1491 & 0.1384 & 0.0879 & $-0.002$ \\
+        \bottomrule
+    \end{tabular}
+\end{table}
+
+\section{Conclusion}\label{sec:conclusion}
+Among the 15 major fossil-fuel economies, the countries that talk more about the energy transition at the UN are the ones whose fossil share of primary energy fell fastest after the Paris Agreement: a robust difference between countries, though not a year-to-year link (RQ1). But neither how often nor how cautiously a country talks about the transition predicts its fossil-fuel production over the following year (RQ2). For this year's theme, transition talk can therefore be trusted as a signal of \emph{domestic} change, but not of changes in \emph{supply}, while managing the transformation globally depends on both. These conclusions are limited by the small number of countries, possibly reversed causality, a narrow keyword list, a sparse and only partly validated caution measure, OWID's coverage of 73 to 79 countries, and rent data that end in 2021. Future work could use longer horizons, countries' nationally determined contributions or emissions, and a validated classifier of commitment language.
 
 \bibliographystyle{splncs04}
 \bibliography{references}
