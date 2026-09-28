@@ -1,0 +1,2129 @@
+Year,iso3,speech_country,transition_mention_count,WordCount,mentions_per_1000_words,top_producer,fossil_share_pct
+2015,AFG,Afghanistan,0,1741,0.0,False,
+2015,AGO,Angola,0,1644,0.0,False,
+2015,ALB,Albania,0,1097,0.0,False,
+2015,AND,Andorra,0,2522,0.0,False,
+2015,ARE,United Arab Emirates,0,1673,0.0,True,99.97541
+2015,ARG,Argentina,0,4344,0.0,False,91.97601
+2015,ARM,Armenia,0,1530,0.0,False,
+2015,ATG,Antigua and Barbuda,0,2327,0.0,False,
+2015,AUS,Australia,0,1991,0.0,True,97.05623
+2015,AUT,Austria,0,1446,0.0,False,80.67245
+2015,AZE,Azerbaijan,0,1649,0.0,False,98.8628
+2015,BDI,Burundi,0,2534,0.0,False,
+2015,BEL,Belgium,0,1809,0.0,False,83.519455
+2015,BEN,Benin,0,2084,0.0,False,
+2015,BFA,Burkina Faso,0,1208,0.0,False,
+2015,BGD,Bangladesh,0,1583,0.0,False,99.67125
+2015,BGR,Bulgaria,0,1870,0.0,False,73.47727
+2015,BHR,Bahrain,0,3632,0.0,False,
+2015,BHS,Bahamas,1,2031,0.4923682914820286,False,
+2015,BIH,Bosnia and Herzegovina,0,2054,0.0,False,
+2015,BLR,Belarus,0,2301,0.0,False,99.74877
+2015,BLZ,Belize,2,2223,0.899685110211426,False,
+2015,BOL,Bolivia (Plurinational State of),0,4114,0.0,False,
+2015,BRA,Brazil,5,2513,1.9896538002387585,True,72.34254
+2015,BRB,Barbados,0,2280,0.0,False,
+2015,BRN,Brunei Darussalam,0,1421,0.0,False,
+2015,BTN,Bhutan,1,1764,0.5668934240362812,False,
+2015,BWA,Botswana,1,2979,0.3356831151393085,False,
+2015,CAF,Central African Republic,0,2494,0.0,False,
+2015,CAN,Canada,0,2271,0.0,False,77.139755
+2015,CHE,Switzerland,0,1262,0.0,False,58.723522
+2015,CHL,Chile,0,1296,0.0,False,88.035736
+2015,CHN,China,1,2031,0.4923682914820286,False,93.9031
+2015,CIV,Côte d’Ivoire,0,1821,0.0,False,
+2015,COD,Democratic Republic of the Congo,0,2317,0.0,False,
+2015,COG,Congo,0,1584,0.0,False,
+2015,COL,Colombia,0,1558,0.0,False,86.3993
+2015,COM,Comoros,1,1806,0.5537098560354374,False,
+2015,CPV,Cabo Verde,2,1371,1.4587892049598834,False,
+2015,CRI,Costa Rica,1,3645,0.27434842249657065,False,
+2015,CUB,Cuba,0,1419,0.0,False,
+2015,CYP,Cyprus,0,1983,0.0,False,
+2015,CZE,Czechia,0,694,0.0,False,78.11987
+2015,DEU,Germany,0,1872,0.0,False,83.09927
+2015,DJI,Djibouti,1,2690,0.37174721189591076,False,
+2015,DMA,Dominica,6,2742,2.1881838074398248,False,
+2015,DNK,Denmark,0,1537,0.0,False,82.86271
+2015,DOM,Dominican Republic,0,1924,0.0,False,
+2015,DZA,Algeria,0,1649,0.0,True,99.96403
+2015,ECU,Ecuador,0,2733,0.0,False,91.186554
+2015,EGY,Egypt,0,2236,0.0,False,98.35326
+2015,ERI,Eritrea,0,835,0.0,False,
+2015,ESP,Spain,0,2139,0.0,False,79.40433
+2015,EST,Estonia,0,1962,0.0,False,95.01819
+2015,ETH,Ethiopia,0,1481,0.0,False,
+2015,EU,,0,1029,0.0,False,
+2015,FIN,Finland,0,1112,0.0,False,58.046288
+2015,FJI,Fiji,0,2410,0.0,False,
+2015,FRA,France,1,2477,0.4037141703673799,False,49.104675
+2015,FSM,Micronesia (Federated States of),0,1835,0.0,False,
+2015,GAB,Gabon,0,2391,0.0,False,
+2015,GBR,United Kingdom of Great Britain and Northern Ireland,0,1775,0.0,False,83.46655
+2015,GEO,Georgia,0,2282,0.0,False,
+2015,GHA,Ghana,1,2677,0.3735524841240194,False,
+2015,GIN,Guinea,0,1259,0.0,False,
+2015,GMB,Gambia,0,2864,0.0,False,
+2015,GNB,Guinea-Bissau,0,1355,0.0,False,
+2015,GNQ,Equatorial Guinea,0,1337,0.0,False,
+2015,GRC,Greece,0,1714,0.0,False,94.016304
+2015,GRD,Grenada,1,1607,0.6222775357809583,False,
+2015,GTM,Guatemala,0,2046,0.0,False,
+2015,GUY,Guyana,0,1668,0.0,False,
+2015,HND,Honduras,0,645,0.0,False,
+2015,HRV,Croatia,0,3348,0.0,False,89.41871
+2015,HTI,Haiti,0,1601,0.0,False,
+2015,HUN,Hungary,0,2067,0.0,False,77.491
+2015,IDN,Indonesia,0,1222,0.0,True,93.63239
+2015,IND,India,0,2864,0.0,False,95.42081
+2015,IRL,Ireland,0,2425,0.0,False,93.583626
+2015,IRN,Iran (Islamic Republic of),0,2344,0.0,True,99.12335
+2015,IRQ,Iraq,0,1770,0.0,True,
+2015,ISL,Iceland,1,1908,0.5241090146750524,False,
+2015,ISR,Israel,0,3863,0.0,False,99.42404
+2015,ITA,Italy,0,2544,0.0,False,87.35737
+2015,JAM,Jamaica,0,2568,0.0,False,
+2015,JOR,Jordan,0,1399,0.0,False,
+2015,JPN,Japan,0,2407,0.0,False,95.24418
+2015,KAZ,Kazakhstan,1,1640,0.6097560975609756,True,98.47584
+2015,KEN,Kenya,0,2817,0.0,False,
+2015,KGZ,Kyrgyzstan,0,3558,0.0,False,
+2015,KHM,Cambodia,1,787,1.2706480304955527,False,
+2015,KIR,Kiribati,0,2318,0.0,False,
+2015,KNA,Saint Kitts and Nevis,4,1932,2.070393374741201,False,
+2015,KOR,Republic of Korea,1,3058,0.3270111183780249,False,84.17619
+2015,KWT,Kuwait,0,2433,0.0,True,99.99891
+2015,LAO,Lao People's Democratic Republic,0,1737,0.0,False,
+2015,LBN,Lebanon,0,1651,0.0,False,
+2015,LBR,Liberia,0,1040,0.0,False,
+2015,LBY,Libya,0,2063,0.0,False,
+2015,LCA,Saint Lucia,0,2389,0.0,False,
+2015,LIE,Liechtenstein,0,1610,0.0,False,
+2015,LKA,Sri Lanka,0,1657,0.0,False,
+2015,LSO,Lesotho,1,2434,0.4108463434675431,False,
+2015,LTU,Lithuania,0,800,0.0,False,94.55026
+2015,LUX,Luxembourg,0,2419,0.0,False,96.168335
+2015,LVA,Latvia,1,1511,0.6618133686300464,False,87.99802
+2015,MAR,Morocco,2,1461,1.3689253935660506,False,97.93334
+2015,MCO,Monaco,2,1641,1.2187690432663012,False,
+2015,MDA,Republic of Moldova,2,2144,0.9328358208955224,False,
+2015,MDG,Madagascar,0,2061,0.0,False,
+2015,MDV,Maldives,0,1545,0.0,False,
+2015,MEX,Mexico,0,1593,0.0,True,93.01486
+2015,MHL,Marshall Islands,1,1773,0.5640157924421885,False,
+2015,MKD,North Macedonia,0,2594,0.0,False,92.0472
+2015,MLI,Mali,0,3141,0.0,False,
+2015,MLT,Malta,0,2436,0.0,False,
+2015,MMR,Myanmar,0,2171,0.0,False,
+2015,MNE,Montenegro,0,1474,0.0,False,
+2015,MNG,Mongolia,0,3013,0.0,False,
+2015,MOZ,Mozambique,0,1901,0.0,False,
+2015,MRT,Mauritania,0,1640,0.0,False,
+2015,MUS,Mauritius,0,2698,0.0,False,
+2015,MWI,Malawi,0,1533,0.0,False,
+2015,MYS,Malaysia,0,2343,0.0,False,98.07471
+2015,NAM,Namibia,0,2660,0.0,False,
+2015,NER,Niger,0,2724,0.0,False,
+2015,NGA,Nigeria,0,1750,0.0,False,
+2015,NIC,Nicaragua,0,1451,0.0,False,
+2015,NLD,Netherlands (Kingdom of the),0,1881,0.0,False,96.07143
+2015,NOR,Norway,0,1494,0.0,True,54.03808
+2015,NPL,Nepal,0,2153,0.0,False,
+2015,NRU,Naoero,0,1641,0.0,False,
+2015,NZL,New Zealand,0,1883,0.0,False,58.964394
+2015,OMN,Oman,0,1308,0.0,False,99.99891
+2015,PAK,Pakistan,0,1744,0.0,False,93.922104
+2015,PAN,Panama,0,1917,0.0,False,
+2015,PER,Peru,0,1374,0.0,False,86.803345
+2015,PHL,Philippines,1,2114,0.47303689687795647,False,75.31208
+2015,PLW,Palau,0,1832,0.0,False,
+2015,PNG,Papua New Guinea,0,1681,0.0,False,
+2015,POL,Poland,0,2304,0.0,False,95.38572
+2015,PRK,Democratic People's Republic of Korea,0,2150,0.0,False,
+2015,PRT,Portugal,0,1500,0.0,False,85.644516
+2015,PRY,Paraguay,3,2056,1.4591439688715953,False,
+2015,PSE,State of Palestine,0,3834,0.0,False,
+2015,QAT,Qatar,0,2523,0.0,True,99.93817
+2015,ROU,Romania,0,2066,0.0,False,81.22384
+2015,RUS,Russian Federation,0,3113,0.0,True,90.10566
+2015,RWA,Rwanda,0,539,0.0,False,
+2015,SAU,Saudi Arabia,0,1105,0.0,True,99.9985
+2015,SDN,Sudan,0,1815,0.0,False,
+2015,SEN,Senegal,0,1101,0.0,False,
+2015,SLB,Solomon Islands,0,3020,0.0,False,
+2015,SLE,Sierra Leone,0,2520,0.0,False,
+2015,SLV,El Salvador,0,1340,0.0,False,
+2015,SMR,San Marino,0,1043,0.0,False,
+2015,SOM,Somalia,0,1825,0.0,False,
+2015,SRB,Serbia,0,4169,0.0,False,
+2015,SSD,South Sudan,0,1220,0.0,False,
+2015,STP,Sao Tome and Principe,0,1835,0.0,False,
+2015,SUR,Suriname,0,1291,0.0,False,
+2015,SVK,Slovakia,1,1915,0.5221932114882506,False,68.6696
+2015,SVN,Slovenia,0,1399,0.0,False,68.19968
+2015,SWE,Sweden,1,1474,0.6784260515603798,False,37.74745
+2015,SWZ,Eswatini,1,2008,0.49800796812749004,False,
+2015,SYC,Seychelles,0,1528,0.0,False,
+2015,SYR,Syrian Arab Republic,0,2185,0.0,False,
+2015,TCD,Chad,0,1759,0.0,False,
+2015,TGO,Togo,0,1981,0.0,False,
+2015,THA,Thailand,0,1781,0.0,False,95.18109
+2015,TJK,Tajikistan,1,2084,0.4798464491362764,False,
+2015,TKM,Turkmenistan,0,1190,0.0,False,
+2015,TLS,Timor-Leste,0,1975,0.0,False,
+2015,TON,Tonga,1,1728,0.5787037037037037,False,
+2015,TTO,Trinidad and Tobago,1,2374,0.42122999157540014,False,99.99718
+2015,TUN,Tunisia,0,1864,0.0,False,
+2015,TUR,Türkiye,0,2728,0.0,False,92.01591
+2015,TUV,Tuvalu,2,2171,0.921234454168586,False,
+2015,TZA,United Republic of Tanzania,0,1895,0.0,False,
+2015,UGA,Uganda,0,990,0.0,False,
+2015,UKR,Ukraine,0,3385,0.0,False,73.48125
+2015,URY,Uruguay,0,2167,0.0,False,
+2015,USA,United States of America,1,4793,0.2086375964948884,False,85.1754
+2015,VAT,Holy See,1,2812,0.3556187766714083,False,
+2015,VCT,Saint Vincent and the Grenadines,1,2339,0.42753313381787084,False,
+2015,VEN,Venezuela (Bolivarian Republic of),0,3436,0.0,False,91.10007
+2015,VNM,Viet Nam,0,1573,0.0,False,91.77062
+2015,VUT,Vanuatu,0,2690,0.0,False,
+2015,WSM,Samoa,0,2565,0.0,False,
+2015,YEM,Yemen,0,1698,0.0,False,
+2015,ZAF,South Africa,0,2191,0.0,True,96.791794
+2015,ZMB,Zambia,0,2212,0.0,False,
+2015,ZWE,Zimbabwe,0,1737,0.0,False,
+2016,AFG,Afghanistan,0,2904,0.0,False,
+2016,AGO,Angola,0,1467,0.0,False,
+2016,ALB,Albania,0,2021,0.0,False,
+2016,AND,Andorra,0,2791,0.0,False,
+2016,ARE,United Arab Emirates,0,2079,0.0,True,99.9751
+2016,ARG,Argentina,1,1672,0.5980861244019139,False,91.95269
+2016,ARM,Armenia,0,1524,0.0,False,
+2016,ATG,Antigua and Barbuda,0,2274,0.0,False,
+2016,AUS,Australia,0,2313,0.0,True,96.71868
+2016,AUT,Austria,0,1235,0.0,False,80.01362
+2016,AZE,Azerbaijan,0,1487,0.0,False,98.63197
+2016,BDI,Burundi,0,2586,0.0,False,
+2016,BEL,Belgium,0,1815,0.0,False,77.3114
+2016,BEN,Benin,0,463,0.0,False,
+2016,BFA,Burkina Faso,0,1881,0.0,False,
+2016,BGD,Bangladesh,0,1844,0.0,False,99.6933
+2016,BGR,Bulgaria,0,2153,0.0,False,72.536674
+2016,BHR,Bahrain,0,2967,0.0,False,
+2016,BHS,Bahamas,0,2255,0.0,False,
+2016,BIH,Bosnia and Herzegovina,0,2432,0.0,False,
+2016,BLR,Belarus,0,1719,0.0,False,99.73148
+2016,BLZ,Belize,0,2529,0.0,False,
+2016,BOL,Bolivia (Plurinational State of),0,1641,0.0,False,
+2016,BRA,Brazil,0,2261,0.0,True,70.24894
+2016,BRB,Barbados,0,1358,0.0,False,
+2016,BTN,Bhutan,2,2034,0.9832841691248771,False,
+2016,BWA,Botswana,0,1807,0.0,False,
+2016,CAF,Central African Republic,0,2270,0.0,False,
+2016,CAN,Canada,1,1470,0.6802721088435374,False,76.579605
+2016,CHE,Switzerland,0,1518,0.0,False,59.7541
+2016,CHL,Chile,0,1300,0.0,False,88.48679
+2016,CHN,China,0,2306,0.0,False,93.07005
+2016,CIV,Côte d’Ivoire,0,1293,0.0,False,
+2016,CMR,Cameroon,0,917,0.0,False,
+2016,COD,Democratic Republic of the Congo,0,2294,0.0,False,
+2016,COG,Congo,0,1122,0.0,False,
+2016,COL,Colombia,0,1488,0.0,False,87.07037
+2016,COM,Comoros,0,1849,0.0,False,
+2016,CPV,Cabo Verde,1,1728,0.5787037037037037,False,
+2016,CRI,Costa Rica,3,3133,0.957548675390999,False,
+2016,CUB,Cuba,0,1584,0.0,False,
+2016,CYP,Cyprus,0,2026,0.0,False,
+2016,CZE,Czechia,0,895,0.0,False,79.52207
+2016,DEU,Germany,0,2075,0.0,False,83.89805
+2016,DMA,Dominica,5,2592,1.9290123456790123,False,
+2016,DNK,Denmark,0,1931,0.0,False,82.75771
+2016,DOM,Dominican Republic,0,2024,0.0,False,
+2016,DZA,Algeria,0,1477,0.0,True,99.94547
+2016,ECU,Ecuador,0,2238,0.0,False,89.05648
+2016,EGY,Egypt,2,2822,0.7087172218284905,False,98.42304
+2016,ERI,Eritrea,0,1062,0.0,False,
+2016,ESP,Spain,0,2318,0.0,False,78.47646
+2016,EST,Estonia,0,1755,0.0,False,94.907394
+2016,ETH,Ethiopia,0,1389,0.0,False,
+2016,EU,,0,1071,0.0,False,
+2016,FIN,Finland,0,1197,0.0,False,59.880283
+2016,FJI,Fiji,0,2236,0.0,False,
+2016,FRA,France,3,2235,1.3422818791946307,False,51.164978
+2016,FSM,Micronesia (Federated States of),0,2537,0.0,False,
+2016,GAB,Gabon,0,2149,0.0,False,
+2016,GBR,United Kingdom of Great Britain and Northern Ireland,0,2985,0.0,False,82.96904
+2016,GEO,Georgia,0,2337,0.0,False,
+2016,GHA,Ghana,0,3506,0.0,False,
+2016,GIN,Guinea,1,1753,0.5704506560182544,False,
+2016,GMB,Gambia,0,2395,0.0,False,
+2016,GNB,Guinea-Bissau,0,1592,0.0,False,
+2016,GNQ,Equatorial Guinea,0,1686,0.0,False,
+2016,GRC,Greece,0,1606,0.0,False,93.84636
+2016,GRD,Grenada,5,2598,1.924557351809084,False,
+2016,GTM,Guatemala,0,1877,0.0,False,
+2016,GUY,Guyana,2,1998,1.001001001001001,False,
+2016,HND,Honduras,0,2009,0.0,False,
+2016,HRV,Croatia,0,2511,0.0,False,88.62936
+2016,HTI,Haiti,0,2386,0.0,False,
+2016,HUN,Hungary,0,1516,0.0,False,77.63947
+2016,IDN,Indonesia,0,1431,0.0,True,92.00052
+2016,IND,India,1,2123,0.4710315591144607,False,95.49776
+2016,IRL,Ireland,0,2508,0.0,False,93.94868
+2016,IRN,Iran (Islamic Republic of),0,1525,0.0,True,98.78273
+2016,IRQ,Iraq,0,1747,0.0,True,
+2016,ISL,Iceland,0,1622,0.0,False,
+2016,ISR,Israel,0,4003,0.0,False,99.16315
+2016,ITA,Italy,0,1719,0.0,False,87.40591
+2016,JAM,Jamaica,0,2287,0.0,False,
+2016,JOR,Jordan,0,1592,0.0,False,
+2016,JPN,Japan,0,2024,0.0,False,94.66607
+2016,KAZ,Kazakhstan,2,2466,0.8110300081103001,True,98.265434
+2016,KEN,Kenya,0,2530,0.0,False,
+2016,KGZ,Kyrgyzstan,2,2611,0.7659900421294523,False,
+2016,KHM,Cambodia,0,1997,0.0,False,
+2016,KIR,Kiribati,0,2647,0.0,False,
+2016,KNA,Saint Kitts and Nevis,0,1649,0.0,False,
+2016,KOR,Republic of Korea,0,1745,0.0,False,84.79418
+2016,KWT,Kuwait,0,1967,0.0,True,99.989525
+2016,LAO,Lao People's Democratic Republic,0,1492,0.0,False,
+2016,LBN,Lebanon,0,1661,0.0,False,
+2016,LBR,Liberia,0,1285,0.0,False,
+2016,LBY,Libya,0,1696,0.0,False,
+2016,LCA,Saint Lucia,0,1412,0.0,False,
+2016,LIE,Liechtenstein,0,1330,0.0,False,
+2016,LKA,Sri Lanka,0,976,0.0,False,
+2016,LSO,Lesotho,0,1946,0.0,False,
+2016,LTU,Lithuania,0,739,0.0,False,94.19858
+2016,LUX,Luxembourg,0,3041,0.0,False,95.81727
+2016,LVA,Latvia,0,1528,0.0,False,86.88417
+2016,MAR,Morocco,0,2971,0.0,False,97.838974
+2016,MCO,Monaco,1,1838,0.544069640914037,False,
+2016,MDA,Republic of Moldova,0,2586,0.0,False,
+2016,MDG,Madagascar,0,1747,0.0,False,
+2016,MDV,Maldives,0,1938,0.0,False,
+2016,MEX,Mexico,1,1572,0.6361323155216285,True,93.31438
+2016,MHL,Marshall Islands,1,1864,0.5364806866952789,False,
+2016,MKD,North Macedonia,0,2979,0.0,False,92.12105
+2016,MLI,Mali,0,2003,0.0,False,
+2016,MLT,Malta,0,1849,0.0,False,
+2016,MMR,Myanmar,0,1626,0.0,False,
+2016,MNE,Montenegro,0,2290,0.0,False,
+2016,MNG,Mongolia,0,2506,0.0,False,
+2016,MOZ,Mozambique,0,1075,0.0,False,
+2016,MRT,Mauritania,1,1706,0.5861664712778428,False,
+2016,MUS,Mauritius,0,2405,0.0,False,
+2016,MWI,Malawi,0,1677,0.0,False,
+2016,MYS,Malaysia,0,1742,0.0,False,97.61372
+2016,NAM,Namibia,1,1720,0.5813953488372093,False,
+2016,NER,Niger,0,2159,0.0,False,
+2016,NGA,Nigeria,0,1948,0.0,False,
+2016,NIC,Nicaragua,0,1414,0.0,False,
+2016,NLD,Netherlands (Kingdom of the),0,2878,0.0,False,96.13796
+2016,NOR,Norway,1,1610,0.6211180124223603,True,52.64424
+2016,NPL,Nepal,0,2756,0.0,False,
+2016,NRU,Naoero,1,1750,0.5714285714285715,False,
+2016,NZL,New Zealand,0,2073,0.0,False,58.20255
+2016,OMN,Oman,0,964,0.0,False,99.99876
+2016,PAK,Pakistan,0,1956,0.0,False,93.61354
+2016,PAN,Panama,0,2318,0.0,False,
+2016,PER,Peru,0,975,0.0,False,87.927765
+2016,PHL,Philippines,0,2156,0.0,False,76.67239
+2016,PLW,Palau,1,2130,0.4694835680751174,False,
+2016,PNG,Papua New Guinea,0,2633,0.0,False,
+2016,POL,Poland,0,2265,0.0,False,96.06616
+2016,PRK,Democratic People's Republic of Korea,0,2252,0.0,False,
+2016,PRT,Portugal,0,1678,0.0,False,83.50629
+2016,PRY,Paraguay,0,1723,0.0,False,
+2016,PSE,State of Palestine,0,2716,0.0,False,
+2016,QAT,Qatar,0,2466,0.0,True,99.93513
+2016,ROU,Romania,0,1318,0.0,False,80.9576
+2016,RUS,Russian Federation,0,2491,0.0,True,90.01603
+2016,RWA,Rwanda,0,682,0.0,False,
+2016,SAU,Saudi Arabia,0,1233,0.0,True,99.99856
+2016,SDN,Sudan,0,1577,0.0,False,
+2016,SEN,Senegal,0,1473,0.0,False,
+2016,SGP,Singapore,0,1656,0.0,False,99.74044
+2016,SLB,Solomon Islands,1,2541,0.3935458480913026,False,
+2016,SLE,Sierra Leone,0,1948,0.0,False,
+2016,SLV,El Salvador,0,1679,0.0,False,
+2016,SMR,San Marino,0,1342,0.0,False,
+2016,SOM,Somalia,1,2489,0.4017677782241864,False,
+2016,SRB,Serbia,0,1662,0.0,False,
+2016,SSD,South Sudan,0,1735,0.0,False,
+2016,STP,Sao Tome and Principe,0,1266,0.0,False,
+2016,SUR,Suriname,0,1386,0.0,False,
+2016,SVK,Slovakia,1,1576,0.6345177664974618,False,69.212975
+2016,SVN,Slovenia,0,1051,0.0,False,68.88643
+2016,SWE,Sweden,0,1652,0.0,False,37.646057
+2016,SWZ,Eswatini,2,2273,0.8798944126704796,False,
+2016,SYC,Seychelles,0,1221,0.0,False,
+2016,SYR,Syrian Arab Republic,0,2036,0.0,False,
+2016,TCD,Chad,0,2063,0.0,False,
+2016,TGO,Togo,0,2290,0.0,False,
+2016,THA,Thailand,0,1630,0.0,False,94.61888
+2016,TJK,Tajikistan,2,1551,1.2894906511927788,False,
+2016,TKM,Turkmenistan,0,1981,0.0,False,
+2016,TLS,Timor-Leste,0,2303,0.0,False,
+2016,TON,Tonga,0,2215,0.0,False,
+2016,TTO,Trinidad and Tobago,0,3701,0.0,False,99.99681
+2016,TUN,Tunisia,0,1358,0.0,False,
+2016,TUR,Türkiye,0,3216,0.0,False,91.17004
+2016,TUV,Tuvalu,1,2579,0.38774718883288095,False,
+2016,TZA,United Republic of Tanzania,0,2826,0.0,False,
+2016,UGA,Uganda,0,979,0.0,False,
+2016,UKR,Ukraine,1,3674,0.2721829069134459,False,76.142334
+2016,URY,Uruguay,0,1642,0.0,False,
+2016,USA,United States of America,0,5652,0.0,False,84.61348
+2016,UZB,Uzbekistan,0,915,0.0,False,98.600235
+2016,VAT,Holy See,0,1732,0.0,False,
+2016,VCT,Saint Vincent and the Grenadines,5,2107,2.3730422401518747,False,
+2016,VEN,Venezuela (Bolivarian Republic of),0,3083,0.0,False,91.91334
+2016,VNM,Viet Nam,0,1412,0.0,False,91.34799
+2016,VUT,Vanuatu,0,2345,0.0,False,
+2016,WSM,Samoa,0,2516,0.0,False,
+2016,YEM,Yemen,0,2601,0.0,False,
+2016,ZAF,South Africa,0,1536,0.0,True,96.13864
+2016,ZMB,Zambia,0,2006,0.0,False,
+2016,ZWE,Zimbabwe,0,1055,0.0,False,
+2017,AFG,Afghanistan,0,1871,0.0,False,
+2017,AGO,Angola,0,1781,0.0,False,
+2017,ALB,Albania,0,2069,0.0,False,
+2017,AND,Andorra,1,2588,0.3863987635239567,False,
+2017,ARE,United Arab Emirates,0,2188,0.0,True,99.93845
+2017,ARG,Argentina,0,2269,0.0,False,91.98109
+2017,ARM,Armenia,0,1673,0.0,False,
+2017,ATG,Antigua and Barbuda,0,2344,0.0,False,
+2017,AUS,Australia,0,1682,0.0,True,96.8908
+2017,AUT,Austria,0,1316,0.0,False,80.467255
+2017,AZE,Azerbaijan,0,1863,0.0,False,98.74118
+2017,BDI,Burundi,0,1790,0.0,False,
+2017,BEL,Belgium,0,1882,0.0,False,77.64974
+2017,BEN,Benin,0,1178,0.0,False,
+2017,BFA,Burkina Faso,0,1774,0.0,False,
+2017,BGD,Bangladesh,0,1696,0.0,False,99.63634
+2017,BGR,Bulgaria,0,1698,0.0,False,74.10237
+2017,BHR,Bahrain,0,3709,0.0,False,
+2017,BHS,Bahamas,2,2405,0.8316008316008316,False,
+2017,BIH,Bosnia and Herzegovina,0,2269,0.0,False,
+2017,BLR,Belarus,0,1718,0.0,False,99.59588
+2017,BLZ,Belize,2,2641,0.7572889057175312,False,
+2017,BOL,Bolivia (Plurinational State of),0,2217,0.0,False,
+2017,BRA,Brazil,2,2020,0.9900990099009901,True,70.30212
+2017,BRB,Barbados,0,2648,0.0,False,
+2017,BRN,Brunei Darussalam,0,1390,0.0,False,
+2017,BTN,Bhutan,1,1792,0.5580357142857143,False,
+2017,BWA,Botswana,0,2520,0.0,False,
+2017,CAF,Central African Republic,0,2624,0.0,False,
+2017,CAN,Canada,0,3272,0.0,False,76.519554
+2017,CHE,Switzerland,0,1265,0.0,False,60.588844
+2017,CHL,Chile,2,2553,0.7833920877399138,False,87.088585
+2017,CHN,China,0,2410,0.0,False,92.54329
+2017,CIV,Côte d’Ivoire,1,1544,0.6476683937823834,False,
+2017,CMR,Cameroon,0,1212,0.0,False,
+2017,COD,Democratic Republic of the Congo,0,1477,0.0,False,
+2017,COG,Congo,0,1324,0.0,False,
+2017,COL,Colombia,0,1732,0.0,False,84.39254
+2017,COM,Comoros,2,2061,0.970402717127608,False,
+2017,CPV,Cabo Verde,0,1758,0.0,False,
+2017,CRI,Costa Rica,4,5010,0.7984031936127745,False,
+2017,CUB,Cuba,0,3621,0.0,False,
+2017,CYP,Cyprus,0,2309,0.0,False,
+2017,CZE,Czechia,0,636,0.0,False,77.95604
+2017,DEU,Germany,0,2612,0.0,False,84.12413
+2017,DJI,Djibouti,0,1479,0.0,False,
+2017,DMA,Dominica,0,1685,0.0,False,
+2017,DNK,Denmark,0,1705,0.0,False,78.9872
+2017,DOM,Dominican Republic,0,1266,0.0,False,
+2017,DZA,Algeria,0,1772,0.0,True,99.907036
+2017,ECU,Ecuador,0,1683,0.0,False,86.44164
+2017,EGY,Egypt,0,2733,0.0,False,98.51676
+2017,ERI,Eritrea,0,1138,0.0,False,
+2017,ESP,Spain,0,2193,0.0,False,80.19144
+2017,EST,Estonia,0,2034,0.0,False,94.61807
+2017,ETH,Ethiopia,0,1510,0.0,False,
+2017,EU,,0,1150,0.0,False,
+2017,FIN,Finland,1,1286,0.7776049766718507,False,58.138954
+2017,FJI,Fiji,0,2295,0.0,False,
+2017,FRA,France,1,4568,0.21891418563922943,False,51.97487
+2017,FSM,Micronesia (Federated States of),0,1541,0.0,False,
+2017,GAB,Gabon,0,1817,0.0,False,
+2017,GBR,United Kingdom of Great Britain and Northern Ireland,0,3277,0.0,False,82.12239
+2017,GEO,Georgia,0,2111,0.0,False,
+2017,GHA,Ghana,0,1575,0.0,False,
+2017,GIN,Guinea,0,1790,0.0,False,
+2017,GMB,Gambia,0,1696,0.0,False,
+2017,GNB,Guinea-Bissau,0,1744,0.0,False,
+2017,GNQ,Equatorial Guinea,0,1382,0.0,False,
+2017,GRC,Greece,0,1717,0.0,False,94.53855
+2017,GRD,Grenada,0,1606,0.0,False,
+2017,GTM,Guatemala,0,1904,0.0,False,
+2017,GUY,Guyana,0,1619,0.0,False,
+2017,HND,Honduras,0,1603,0.0,False,
+2017,HRV,Croatia,0,2136,0.0,False,90.22192
+2017,HTI,Haiti,2,2488,0.8038585209003215,False,
+2017,HUN,Hungary,0,1714,0.0,False,78.66975
+2017,IDN,Indonesia,0,1471,0.0,True,91.78023
+2017,IND,India,0,2549,0.0,False,95.44428
+2017,IRL,Ireland,1,3303,0.3027550711474417,False,92.6819
+2017,IRN,Iran (Islamic Republic of),0,2047,0.0,True,98.7059
+2017,IRQ,Iraq,0,2802,0.0,True,99.62378
+2017,ISL,Iceland,2,1696,1.1792452830188678,False,
+2017,ISR,Israel,0,2444,0.0,False,99.1386
+2017,ITA,Italy,0,2349,0.0,False,87.8281
+2017,JAM,Jamaica,0,2522,0.0,False,
+2017,JOR,Jordan,0,1462,0.0,False,
+2017,JPN,Japan,0,1730,0.0,False,93.79344
+2017,KAZ,Kazakhstan,0,2824,0.0,True,98.437584
+2017,KEN,Kenya,0,2104,0.0,False,
+2017,KGZ,Kyrgyzstan,0,2560,0.0,False,
+2017,KHM,Cambodia,0,1630,0.0,False,
+2017,KIR,Kiribati,0,2256,0.0,False,
+2017,KNA,Saint Kitts and Nevis,2,2702,0.7401924500370096,False,
+2017,KOR,Republic of Korea,0,2579,0.0,False,85.87329
+2017,KWT,Kuwait,0,2274,0.0,True,99.9886
+2017,LAO,Lao People's Democratic Republic,0,1699,0.0,False,
+2017,LBN,Lebanon,0,1998,0.0,False,
+2017,LBR,Liberia,0,1601,0.0,False,
+2017,LBY,Libya,0,1614,0.0,False,
+2017,LCA,Saint Lucia,0,2006,0.0,False,
+2017,LIE,Liechtenstein,0,1758,0.0,False,
+2017,LKA,Sri Lanka,0,1465,0.0,False,
+2017,LSO,Lesotho,0,2479,0.0,False,
+2017,LTU,Lithuania,0,537,0.0,False,93.3117
+2017,LUX,Luxembourg,0,2825,0.0,False,94.887405
+2017,LVA,Latvia,0,1722,0.0,False,82.04286
+2017,MAR,Morocco,2,1741,1.1487650775416427,False,97.95007
+2017,MCO,Monaco,0,1719,0.0,False,
+2017,MDA,Republic of Moldova,1,1631,0.6131207847946045,False,
+2017,MDG,Madagascar,1,1855,0.5390835579514826,False,
+2017,MDV,Maldives,5,3184,1.57035175879397,False,
+2017,MEX,Mexico,0,2293,0.0,True,93.62538
+2017,MHL,Marshall Islands,0,2093,0.0,False,
+2017,MKD,North Macedonia,0,1723,0.0,False,94.87458
+2017,MLI,Mali,0,2612,0.0,False,
+2017,MLT,Malta,0,1247,0.0,False,
+2017,MMR,Myanmar,0,1797,0.0,False,
+2017,MNE,Montenegro,0,1338,0.0,False,
+2017,MNG,Mongolia,2,2053,0.974184120798831,False,
+2017,MOZ,Mozambique,0,2624,0.0,False,
+2017,MRT,Mauritania,2,1491,1.341381623071764,False,
+2017,MUS,Mauritius,0,2074,0.0,False,
+2017,MWI,Malawi,0,1355,0.0,False,
+2017,MYS,Malaysia,0,1693,0.0,False,97.034874
+2017,NAM,Namibia,0,1615,0.0,False,
+2017,NER,Niger,0,2264,0.0,False,
+2017,NGA,Nigeria,0,1004,0.0,False,
+2017,NIC,Nicaragua,0,1926,0.0,False,
+2017,NLD,Netherlands (Kingdom of the),0,2022,0.0,False,96.03131
+2017,NOR,Norway,0,1658,0.0,True,53.56806
+2017,NPL,Nepal,0,2201,0.0,False,
+2017,NRU,Naoero,1,1890,0.5291005291005292,False,
+2017,NZL,New Zealand,2,1460,1.36986301369863,False,59.422802
+2017,OMN,Oman,0,1161,0.0,False,99.99557
+2017,PAK,Pakistan,0,2315,0.0,False,93.264366
+2017,PAN,Panama,0,2065,0.0,False,
+2017,PER,Peru,0,859,0.0,False,85.60976
+2017,PHL,Philippines,0,3636,0.0,False,79.053505
+2017,PLW,Palau,0,1762,0.0,False,
+2017,PNG,Papua New Guinea,0,1697,0.0,False,
+2017,POL,Poland,0,2237,0.0,False,96.238045
+2017,PRK,Democratic People's Republic of Korea,0,3065,0.0,False,
+2017,PRT,Portugal,0,1938,0.0,False,87.45099
+2017,PRY,Paraguay,1,2291,0.43649061545176776,False,
+2017,PSE,State of Palestine,0,4191,0.0,False,
+2017,QAT,Qatar,0,2964,0.0,True,99.929245
+2017,ROU,Romania,0,1117,0.0,False,82.08399
+2017,RUS,Russian Federation,0,2844,0.0,True,89.822205
+2017,RWA,Rwanda,0,540,0.0,False,
+2017,SAU,Saudi Arabia,0,999,0.0,True,99.9978
+2017,SDN,Sudan,0,2324,0.0,False,
+2017,SEN,Senegal,0,1193,0.0,False,
+2017,SGP,Singapore,0,1995,0.0,False,99.75535
+2017,SLB,Solomon Islands,1,3134,0.3190810465858328,False,
+2017,SLE,Sierra Leone,0,2513,0.0,False,
+2017,SLV,El Salvador,0,1486,0.0,False,
+2017,SMR,San Marino,1,2369,0.4221190375685943,False,
+2017,SOM,Somalia,0,1807,0.0,False,
+2017,SRB,Serbia,0,2146,0.0,False,
+2017,SSD,South Sudan,0,2334,0.0,False,
+2017,STP,Sao Tome and Principe,0,2285,0.0,False,
+2017,SUR,Suriname,0,2826,0.0,False,
+2017,SVK,Slovakia,0,1504,0.0,False,70.35214
+2017,SVN,Slovenia,0,1518,0.0,False,68.24361
+2017,SWE,Sweden,0,2291,0.0,False,36.507107
+2017,SWZ,Eswatini,0,1762,0.0,False,
+2017,SYC,Seychelles,0,1397,0.0,False,
+2017,SYR,Syrian Arab Republic,0,2377,0.0,False,
+2017,TCD,Chad,0,1695,0.0,False,
+2017,TGO,Togo,0,2506,0.0,False,
+2017,THA,Thailand,0,1519,0.0,False,94.03107
+2017,TJK,Tajikistan,4,1869,2.140181915462814,False,
+2017,TKM,Turkmenistan,2,1343,1.4892032762472078,False,
+2017,TLS,Timor-Leste,0,1992,0.0,False,
+2017,TON,Tonga,4,1733,2.308136180034622,False,
+2017,TTO,Trinidad and Tobago,0,2116,0.0,False,99.99699
+2017,TUN,Tunisia,0,1756,0.0,False,
+2017,TUR,Türkiye,0,2754,0.0,False,91.30155
+2017,TUV,Tuvalu,2,2763,0.7238508867173362,False,
+2017,TZA,United Republic of Tanzania,0,2191,0.0,False,
+2017,UGA,Uganda,0,910,0.0,False,
+2017,UKR,Ukraine,1,2641,0.3786444528587656,False,72.74828
+2017,URY,Uruguay,0,2618,0.0,False,
+2017,USA,United States of America,0,4575,0.0,False,84.27372
+2017,UZB,Uzbekistan,0,1990,0.0,False,98.45383
+2017,VAT,Holy See,0,3189,0.0,False,
+2017,VCT,Saint Vincent and the Grenadines,2,2439,0.8200082000820008,False,
+2017,VEN,Venezuela (Bolivarian Republic of),0,3442,0.0,False,90.68227
+2017,VNM,Viet Nam,0,1491,0.0,False,88.7344
+2017,VUT,Vanuatu,1,2540,0.39370078740157477,False,
+2017,WSM,Samoa,0,2612,0.0,False,
+2017,YEM,Yemen,0,1983,0.0,False,
+2017,ZAF,South Africa,0,1822,0.0,True,95.84859
+2017,ZMB,Zambia,0,1536,0.0,False,
+2017,ZWE,Zimbabwe,0,1537,0.0,False,
+2018,AFG,Afghanistan,0,1931,0.0,False,
+2018,AGO,Angola,0,1074,0.0,False,
+2018,ALB,Albania,0,1856,0.0,False,
+2018,AND,Andorra,2,2591,0.7719027402547279,False,
+2018,ARE,United Arab Emirates,1,1968,0.508130081300813,True,99.894035
+2018,ARG,Argentina,0,1158,0.0,False,91.59892
+2018,ARM,Armenia,0,1760,0.0,False,
+2018,ATG,Antigua and Barbuda,0,3156,0.0,False,
+2018,AUS,Australia,0,2210,0.0,True,96.23233
+2018,AUT,Austria,0,1962,0.0,False,80.417854
+2018,AZE,Azerbaijan,0,2427,0.0,False,98.765785
+2018,BDI,Burundi,0,2655,0.0,False,
+2018,BEL,Belgium,0,2747,0.0,False,83.0372
+2018,BEN,Benin,0,1699,0.0,False,
+2018,BFA,Burkina Faso,0,2724,0.0,False,
+2018,BGD,Bangladesh,0,2896,0.0,False,99.701515
+2018,BGR,Bulgaria,0,2938,0.0,False,70.366684
+2018,BHR,Bahrain,0,3124,0.0,False,
+2018,BHS,Bahamas,0,1291,0.0,False,
+2018,BIH,Bosnia and Herzegovina,0,1892,0.0,False,
+2018,BLR,Belarus,0,2148,0.0,False,99.66853
+2018,BLZ,Belize,0,2308,0.0,False,
+2018,BOL,Bolivia (Plurinational State of),0,2140,0.0,False,
+2018,BRA,Brazil,1,2123,0.4710315591144607,True,67.67194
+2018,BRB,Barbados,0,2245,0.0,False,
+2018,BRN,Brunei Darussalam,0,1146,0.0,False,
+2018,BTN,Bhutan,0,1845,0.0,False,
+2018,BWA,Botswana,0,2045,0.0,False,
+2018,CAF,Central African Republic,0,1699,0.0,False,
+2018,CAN,Canada,1,2278,0.43898156277436345,False,77.25027
+2018,CHE,Switzerland,0,1560,0.0,False,56.729412
+2018,CHL,Chile,3,4375,0.6857142857142857,False,85.2487
+2018,CHN,China,0,2768,0.0,False,91.939896
+2018,CIV,Côte d’Ivoire,0,1402,0.0,False,
+2018,CMR,Cameroon,0,2354,0.0,False,
+2018,COD,Democratic Republic of the Congo,0,1232,0.0,False,
+2018,COG,Congo,0,1613,0.0,False,
+2018,COL,Colombia,1,1778,0.562429696287964,False,84.62174
+2018,COM,Comoros,0,2340,0.0,False,
+2018,CPV,Cabo Verde,0,1867,0.0,False,
+2018,CRI,Costa Rica,5,2592,1.9290123456790123,False,
+2018,CUB,Cuba,0,2643,0.0,False,
+2018,CYP,Cyprus,0,2029,0.0,False,
+2018,CZE,Czechia,0,1411,0.0,False,77.09587
+2018,DEU,Germany,0,2317,0.0,False,83.4129
+2018,DJI,Djibouti,0,1451,0.0,False,
+2018,DMA,Dominica,0,2467,0.0,False,
+2018,DNK,Denmark,0,1629,0.0,False,79.88035
+2018,DOM,Dominican Republic,1,2153,0.46446818392940087,False,
+2018,DZA,Algeria,0,1833,0.0,True,99.89079
+2018,ECU,Ecuador,0,3043,0.0,False,87.00746
+2018,EGY,Egypt,0,2127,0.0,False,98.42347
+2018,ERI,Eritrea,0,1069,0.0,False,
+2018,ESP,Spain,3,3766,0.7966011683483802,False,79.16773
+2018,EST,Estonia,0,1824,0.0,False,93.572334
+2018,ETH,Ethiopia,0,1303,0.0,False,
+2018,EU,,0,1062,0.0,False,
+2018,FIN,Finland,0,1208,0.0,False,57.90618
+2018,FJI,Fiji,0,2195,0.0,False,
+2018,FRA,France,2,5591,0.3577177606868181,False,49.88218
+2018,FSM,Micronesia (Federated States of),0,1465,0.0,False,
+2018,GAB,Gabon,0,1839,0.0,False,
+2018,GBR,United Kingdom of Great Britain and Northern Ireland,1,2706,0.36954915003695493,False,81.68065
+2018,GEO,Georgia,0,2257,0.0,False,
+2018,GHA,Ghana,0,1542,0.0,False,
+2018,GIN,Guinea,1,1788,0.5592841163310962,False,
+2018,GMB,Gambia,0,1737,0.0,False,
+2018,GNB,Guinea-Bissau,0,1366,0.0,False,
+2018,GNQ,Equatorial Guinea,0,1328,0.0,False,
+2018,GRC,Greece,0,2040,0.0,False,93.71046
+2018,GRD,Grenada,2,1881,1.063264221158958,False,
+2018,GTM,Guatemala,0,2769,0.0,False,
+2018,GUY,Guyana,3,1916,1.5657620041753655,False,
+2018,HND,Honduras,0,2227,0.0,False,
+2018,HRV,Croatia,1,2796,0.35765379113018597,False,86.192085
+2018,HTI,Haiti,0,2027,0.0,False,
+2018,HUN,Hungary,0,1958,0.0,False,78.845116
+2018,IDN,Indonesia,0,1750,0.0,True,89.351685
+2018,IND,India,0,2384,0.0,False,95.13914
+2018,IRL,Ireland,0,3627,0.0,False,91.90715
+2018,IRN,Iran (Islamic Republic of),0,2399,0.0,True,98.978325
+2018,IRQ,Iraq,0,1994,0.0,True,99.64637
+2018,ISL,Iceland,3,1845,1.6260162601626016,False,
+2018,ISR,Israel,0,3682,0.0,False,99.06437
+2018,ITA,Italy,0,971,0.0,False,87.108604
+2018,JAM,Jamaica,0,2180,0.0,False,
+2018,JOR,Jordan,0,1261,0.0,False,
+2018,JPN,Japan,0,2038,0.0,False,92.22853
+2018,KAZ,Kazakhstan,0,2696,0.0,True,98.58538
+2018,KEN,Kenya,0,2281,0.0,False,
+2018,KGZ,Kyrgyzstan,0,1608,0.0,False,
+2018,KHM,Cambodia,0,1394,0.0,False,
+2018,KIR,Kiribati,1,2134,0.46860356138706655,False,
+2018,KNA,Saint Kitts and Nevis,1,1972,0.5070993914807302,False,
+2018,KOR,Republic of Korea,2,2073,0.964785335262904,False,87.09773
+2018,KWT,Kuwait,0,2997,0.0,True,99.98775
+2018,LAO,Lao People's Democratic Republic,0,1459,0.0,False,
+2018,LBN,Lebanon,0,1892,0.0,False,
+2018,LBR,Liberia,0,1404,0.0,False,
+2018,LBY,Libya,0,3323,0.0,False,
+2018,LCA,Saint Lucia,0,2271,0.0,False,
+2018,LIE,Liechtenstein,0,1611,0.0,False,
+2018,LKA,Sri Lanka,0,1357,0.0,False,
+2018,LSO,Lesotho,0,2058,0.0,False,
+2018,LTU,Lithuania,0,508,0.0,False,93.818634
+2018,LUX,Luxembourg,0,2778,0.0,False,94.491295
+2018,LVA,Latvia,0,1893,0.0,False,85.23084
+2018,MAR,Morocco,0,1939,0.0,False,97.19466
+2018,MCO,Monaco,3,1697,1.7678255745433118,False,
+2018,MDA,Republic of Moldova,1,2128,0.4699248120300752,False,
+2018,MDG,Madagascar,2,2287,0.8745080891998251,False,
+2018,MDV,Maldives,0,1244,0.0,False,
+2018,MEX,Mexico,0,1632,0.0,True,93.271355
+2018,MHL,Marshall Islands,1,2158,0.4633920296570899,False,
+2018,MKD,North Macedonia,0,3349,0.0,False,92.38651
+2018,MLI,Mali,0,2239,0.0,False,
+2018,MLT,Malta,0,1740,0.0,False,
+2018,MMR,Myanmar,0,1900,0.0,False,
+2018,MNE,Montenegro,0,2089,0.0,False,
+2018,MNG,Mongolia,0,2590,0.0,False,
+2018,MOZ,Mozambique,0,1871,0.0,False,
+2018,MRT,Mauritania,1,1848,0.5411255411255411,False,
+2018,MUS,Mauritius,0,1953,0.0,False,
+2018,MWI,Malawi,2,1853,1.0793308148947653,False,
+2018,MYS,Malaysia,0,2315,0.0,False,96.90059
+2018,NAM,Namibia,0,1926,0.0,False,
+2018,NER,Niger,0,2329,0.0,False,
+2018,NGA,Nigeria,0,1996,0.0,False,
+2018,NIC,Nicaragua,0,1436,0.0,False,
+2018,NLD,Netherlands (Kingdom of the),0,1828,0.0,False,95.49195
+2018,NOR,Norway,0,1869,0.0,True,53.55964
+2018,NPL,Nepal,0,2637,0.0,False,
+2018,NRU,Naoero,3,1770,1.694915254237288,False,
+2018,NZL,New Zealand,1,2686,0.37230081906180196,False,58.787262
+2018,OMN,Oman,0,1025,0.0,False,99.995834
+2018,PAK,Pakistan,0,2909,0.0,False,92.98449
+2018,PAN,Panama,0,2147,0.0,False,
+2018,PER,Peru,0,1410,0.0,False,85.134125
+2018,PHL,Philippines,0,1543,0.0,False,79.28533
+2018,PLW,Palau,5,2092,2.390057361376673,False,
+2018,PNG,Papua New Guinea,0,2296,0.0,False,
+2018,POL,Poland,0,2028,0.0,False,96.19651
+2018,PRK,Democratic People's Republic of Korea,0,2069,0.0,False,
+2018,PRT,Portugal,1,1606,0.6226650062266501,False,84.31961
+2018,PRY,Paraguay,1,2210,0.45248868778280543,False,
+2018,PSE,State of Palestine,0,3690,0.0,False,
+2018,QAT,Qatar,0,2407,0.0,True,99.92744
+2018,ROU,Romania,0,1219,0.0,False,81.71601
+2018,RUS,Russian Federation,0,2381,0.0,True,90.06045
+2018,RWA,Rwanda,0,825,0.0,False,
+2018,SAU,Saudi Arabia,0,1297,0.0,True,99.994705
+2018,SDN,Sudan,0,3821,0.0,False,
+2018,SEN,Senegal,0,1812,0.0,False,
+2018,SGP,Singapore,0,2204,0.0,False,99.759315
+2018,SLB,Solomon Islands,2,2893,0.691323885240235,False,
+2018,SLE,Sierra Leone,5,2427,2.0601565718994643,False,
+2018,SLV,El Salvador,0,1761,0.0,False,
+2018,SMR,San Marino,0,2497,0.0,False,
+2018,SOM,Somalia,0,1837,0.0,False,
+2018,SRB,Serbia,0,1727,0.0,False,
+2018,SSD,South Sudan,0,2374,0.0,False,
+2018,STP,Sao Tome and Principe,0,1868,0.0,False,
+2018,SUR,Suriname,0,2527,0.0,False,
+2018,SVK,Slovakia,0,1532,0.0,False,70.86751
+2018,SVN,Slovenia,0,1253,0.0,False,68.7532
+2018,SWE,Sweden,1,1911,0.5232862375719519,False,34.833
+2018,SWZ,Eswatini,0,2022,0.0,False,
+2018,SYC,Seychelles,0,1215,0.0,False,
+2018,SYR,Syrian Arab Republic,0,2948,0.0,False,
+2018,TCD,Chad,0,2576,0.0,False,
+2018,TGO,Togo,0,2018,0.0,False,
+2018,THA,Thailand,0,2051,0.0,False,93.183395
+2018,TJK,Tajikistan,0,1704,0.0,False,
+2018,TKM,Turkmenistan,0,1229,0.0,False,
+2018,TLS,Timor-Leste,0,1691,0.0,False,
+2018,TON,Tonga,4,1259,3.177124702144559,False,
+2018,TTO,Trinidad and Tobago,0,2698,0.0,False,99.99678
+2018,TUN,Tunisia,0,2414,0.0,False,
+2018,TUR,Türkiye,0,3129,0.0,False,89.89445
+2018,TUV,Tuvalu,1,2223,0.449842555105713,False,
+2018,TZA,United Republic of Tanzania,0,2783,0.0,False,
+2018,UGA,Uganda,0,1772,0.0,False,
+2018,UKR,Ukraine,0,3013,0.0,False,73.676384
+2018,URY,Uruguay,1,1548,0.6459948320413437,False,
+2018,USA,United States of America,0,3602,0.0,False,84.72822
+2018,UZB,Uzbekistan,0,1978,0.0,False,98.91099
+2018,VAT,Holy See,0,4917,0.0,False,
+2018,VCT,Saint Vincent and the Grenadines,1,2446,0.40883074407195424,False,
+2018,VEN,Venezuela (Bolivarian Republic of),0,4583,0.0,False,89.49596
+2018,VNM,Viet Nam,0,1853,0.0,False,90.66518
+2018,VUT,Vanuatu,0,1918,0.0,False,
+2018,WSM,Samoa,0,2336,0.0,False,
+2018,YEM,Yemen,0,2098,0.0,False,
+2018,ZAF,South Africa,0,1821,0.0,True,96.697876
+2018,ZMB,Zambia,0,1526,0.0,False,
+2018,ZWE,Zimbabwe,0,1468,0.0,False,
+2019,AFG,Afghanistan,0,2033,0.0,False,
+2019,AGO,Angola,0,1270,0.0,False,
+2019,ALB,Albania,1,2462,0.4061738424045491,False,
+2019,AND,Andorra,1,2337,0.4278990158322636,False,
+2019,ARE,United Arab Emirates,1,1750,0.5714285714285715,True,99.69865
+2019,ARG,Argentina,2,1721,1.1621150493898895,False,90.64014
+2019,ARM,Armenia,0,2467,0.0,False,
+2019,ATG,Antigua and Barbuda,1,3651,0.27389756231169543,False,
+2019,AUS,Australia,5,2474,2.021018593371059,True,95.99841
+2019,AUT,Austria,1,1355,0.7380073800738007,False,79.94081
+2019,AZE,Azerbaijan,0,1961,0.0,False,98.90139
+2019,BDI,Burundi,0,3100,0.0,False,
+2019,BEL,Belgium,3,1979,1.5159171298635674,False,77.24863
+2019,BEN,Benin,1,2180,0.45871559633027525,False,
+2019,BFA,Burkina Faso,1,2788,0.3586800573888092,False,
+2019,BGD,Bangladesh,0,2258,0.0,False,99.7278
+2019,BGR,Bulgaria,2,1734,1.1534025374855825,False,69.85063
+2019,BHR,Bahrain,0,2504,0.0,False,
+2019,BHS,Bahamas,0,1826,0.0,False,
+2019,BIH,Bosnia and Herzegovina,0,2680,0.0,False,
+2019,BLR,Belarus,1,2277,0.4391743522178305,False,99.611946
+2019,BLZ,Belize,4,3295,1.2139605462822458,False,
+2019,BOL,Bolivia (Plurinational State of),0,1526,0.0,False,
+2019,BRA,Brazil,0,3448,0.0,True,66.57072
+2019,BRB,Barbados,0,3380,0.0,False,
+2019,BRN,Brunei Darussalam,0,1131,0.0,False,
+2019,BTN,Bhutan,1,1437,0.6958942240779402,False,
+2019,BWA,Botswana,1,2489,0.4017677782241864,False,
+2019,CAF,Central African Republic,0,1788,0.0,False,
+2019,CAN,Canada,0,3363,0.0,False,77.278336
+2019,CHE,Switzerland,0,1059,0.0,False,56.07376
+2019,CHL,Chile,5,2726,1.834189288334556,False,86.200226
+2019,CHN,China,0,2742,0.0,False,91.47514
+2019,CIV,Côte d’Ivoire,0,1578,0.0,False,
+2019,CMR,Cameroon,0,2808,0.0,False,
+2019,COD,Democratic Republic of the Congo,1,3547,0.28192839018889204,False,
+2019,COG,Congo,0,1780,0.0,False,
+2019,COL,Colombia,1,2884,0.34674063800277394,False,85.39382
+2019,COM,Comoros,0,1884,0.0,False,
+2019,CPV,Cabo Verde,7,1268,5.520504731861199,False,
+2019,CRI,Costa Rica,2,2208,0.9057971014492754,False,
+2019,CUB,Cuba,0,2934,0.0,False,
+2019,CYP,Cyprus,0,2223,0.0,False,
+2019,CZE,Czechia,6,2653,2.2615906520919715,False,76.067535
+2019,DEU,Germany,0,2201,0.0,False,82.44044
+2019,DJI,Djibouti,0,1643,0.0,False,
+2019,DMA,Dominica,3,2076,1.445086705202312,False,
+2019,DNK,Denmark,8,1902,4.206098843322818,False,77.43332
+2019,DOM,Dominican Republic,0,1901,0.0,False,
+2019,DZA,Algeria,0,2153,0.0,True,99.88789
+2019,ECU,Ecuador,1,2349,0.4257130693912303,False,84.49974
+2019,EGY,Egypt,0,1891,0.0,False,98.073166
+2019,ERI,Eritrea,0,739,0.0,False,
+2019,ESP,Spain,1,4593,0.21772262138036141,False,78.85938
+2019,EST,Estonia,6,2003,2.9955067398901645,False,91.48793
+2019,ETH,Ethiopia,1,1607,0.6222775357809583,False,
+2019,EU,,0,752,0.0,False,
+2019,FIN,Finland,1,1321,0.757002271006813,False,56.093716
+2019,FJI,Fiji,6,2165,2.771362586605081,False,
+2019,FRA,France,2,4922,0.4063388866314506,False,50.263947
+2019,FSM,Micronesia (Federated States of),1,2599,0.38476337052712584,False,
+2019,GAB,Gabon,2,1983,1.0085728693898135,False,
+2019,GBR,United Kingdom of Great Britain and Northern Ireland,2,2106,0.9496676163342831,False,81.41615
+2019,GEO,Georgia,0,3236,0.0,False,
+2019,GHA,Ghana,0,1610,0.0,False,
+2019,GIN,Guinea,5,1263,3.95882818685669,False,
+2019,GMB,Gambia,0,3344,0.0,False,
+2019,GNB,Guinea-Bissau,0,1805,0.0,False,
+2019,GNQ,Equatorial Guinea,0,1714,0.0,False,
+2019,GRC,Greece,0,1970,0.0,False,93.39961
+2019,GRD,Grenada,1,2827,0.3537318712415989,False,
+2019,GTM,Guatemala,0,2963,0.0,False,
+2019,GUY,Guyana,1,2663,0.3755163349605708,False,
+2019,HND,Honduras,0,1820,0.0,False,
+2019,HRV,Croatia,0,1720,0.0,False,86.13727
+2019,HTI,Haiti,0,2044,0.0,False,
+2019,HUN,Hungary,0,2241,0.0,False,78.09818
+2019,IDN,Indonesia,0,1471,0.0,True,88.88058
+2019,IND,India,1,1209,0.8271298593879239,False,94.57153
+2019,IRL,Ireland,0,4262,0.0,False,90.62927
+2019,IRN,Iran (Islamic Republic of),0,1956,0.0,True,98.31767
+2019,IRQ,Iraq,0,2728,0.0,True,99.20493
+2019,ISL,Iceland,3,1839,1.6313213703099512,False,
+2019,ISR,Israel,0,1027,0.0,False,98.63714
+2019,ITA,Italy,2,2446,0.8176614881439085,False,86.85002
+2019,JAM,Jamaica,0,2151,0.0,False,
+2019,JOR,Jordan,0,1010,0.0,False,
+2019,JPN,Japan,0,1877,0.0,False,90.954834
+2019,KAZ,Kazakhstan,0,1896,0.0,True,98.57705
+2019,KEN,Kenya,3,2064,1.4534883720930232,False,
+2019,KGZ,Kyrgyzstan,1,2748,0.363901018922853,False,
+2019,KHM,Cambodia,0,1984,0.0,False,
+2019,KIR,Kiribati,0,2128,0.0,False,
+2019,KNA,Saint Kitts and Nevis,1,1729,0.578368999421631,False,
+2019,KOR,Republic of Korea,1,2295,0.43572984749455335,False,85.64268
+2019,KWT,Kuwait,0,1419,0.0,True,99.98431
+2019,LAO,Lao People's Democratic Republic,0,1516,0.0,False,
+2019,LBN,Lebanon,0,1748,0.0,False,
+2019,LBR,Liberia,0,2102,0.0,False,
+2019,LBY,Libya,0,2838,0.0,False,
+2019,LCA,Saint Lucia,0,1723,0.0,False,
+2019,LIE,Liechtenstein,0,1570,0.0,False,
+2019,LKA,Sri Lanka,0,2310,0.0,False,
+2019,LSO,Lesotho,0,1953,0.0,False,
+2019,LTU,Lithuania,2,1582,1.2642225031605563,False,93.429794
+2019,LUX,Luxembourg,3,3352,0.8949880668257757,False,93.85591
+2019,LVA,Latvia,3,1594,1.8820577164366374,False,86.73956
+2019,MAR,Morocco,0,2168,0.0,False,97.000626
+2019,MCO,Monaco,5,1763,2.8360748723766305,False,
+2019,MDA,Republic of Moldova,0,2868,0.0,False,
+2019,MDG,Madagascar,1,2037,0.49091801669121254,False,
+2019,MDV,Maldives,0,1695,0.0,False,
+2019,MEX,Mexico,0,1690,0.0,True,93.32883
+2019,MHL,Marshall Islands,0,2104,0.0,False,
+2019,MKD,North Macedonia,0,1589,0.0,False,94.9664
+2019,MLI,Mali,1,2827,0.3537318712415989,False,
+2019,MLT,Malta,0,1441,0.0,False,
+2019,MMR,Myanmar,0,2464,0.0,False,
+2019,MNE,Montenegro,0,2120,0.0,False,
+2019,MNG,Mongolia,4,2345,1.7057569296375266,False,
+2019,MOZ,Mozambique,1,2191,0.45641259698767683,False,
+2019,MRT,Mauritania,6,1524,3.937007874015748,False,
+2019,MUS,Mauritius,2,2149,0.9306654257794323,False,
+2019,MWI,Malawi,0,2514,0.0,False,
+2019,MYS,Malaysia,0,2912,0.0,False,96.769135
+2019,NAM,Namibia,0,1775,0.0,False,
+2019,NER,Niger,0,2767,0.0,False,
+2019,NGA,Nigeria,0,1691,0.0,False,
+2019,NIC,Nicaragua,0,1290,0.0,False,
+2019,NLD,Netherlands (Kingdom of the),0,1996,0.0,False,94.51703
+2019,NOR,Norway,2,2205,0.9070294784580499,True,55.31026
+2019,NPL,Nepal,0,2393,0.0,False,
+2019,NRU,Naoero,4,2344,1.7064846416382253,False,
+2019,NZL,New Zealand,3,2792,1.0744985673352436,False,59.674103
+2019,OMN,Oman,0,1480,0.0,False,99.99324
+2019,PAK,Pakistan,0,5320,0.0,False,92.171394
+2019,PAN,Panama,0,1003,0.0,False,
+2019,PER,Peru,0,2389,0.0,False,85.245415
+2019,PHL,Philippines,0,3569,0.0,False,79.79605
+2019,PLW,Palau,4,2127,1.8805829807240244,False,
+2019,PNG,Papua New Guinea,2,3286,0.6086427267194157,False,
+2019,POL,Poland,4,2532,1.5797788309636651,False,95.46283
+2019,PRK,Democratic People's Republic of Korea,0,1395,0.0,False,
+2019,PRT,Portugal,1,1634,0.6119951040391677,False,84.57664
+2019,PRY,Paraguay,1,1848,0.5411255411255411,False,
+2019,PSE,State of Palestine,0,2357,0.0,False,
+2019,QAT,Qatar,0,2518,0.0,True,99.93745
+2019,ROU,Romania,1,1036,0.9652509652509653,False,81.68303
+2019,RUS,Russian Federation,0,2994,0.0,True,89.76249
+2019,RWA,Rwanda,0,611,0.0,False,
+2019,SAU,Saudi Arabia,0,1367,0.0,True,99.99284
+2019,SDN,Sudan,0,1647,0.0,False,
+2019,SEN,Senegal,1,1273,0.7855459544383347,False,
+2019,SGP,Singapore,2,1649,1.2128562765312312,False,99.74834
+2019,SLB,Solomon Islands,0,3421,0.0,False,
+2019,SLE,Sierra Leone,1,2136,0.4681647940074906,False,
+2019,SLV,El Salvador,0,2476,0.0,False,
+2019,SMR,San Marino,0,2735,0.0,False,
+2019,SOM,Somalia,0,2847,0.0,False,
+2019,SRB,Serbia,0,2413,0.0,False,
+2019,SSD,South Sudan,1,2254,0.4436557231588288,False,
+2019,STP,Sao Tome and Principe,0,1318,0.0,False,
+2019,SUR,Suriname,0,1812,0.0,False,
+2019,SVK,Slovakia,2,1051,1.9029495718363465,False,68.41303
+2019,SVN,Slovenia,0,1540,0.0,False,67.75908
+2019,SWE,Sweden,2,2026,0.9871668311944718,False,35.67228
+2019,SWZ,Eswatini,0,2110,0.0,False,
+2019,SYC,Seychelles,0,1216,0.0,False,
+2019,SYR,Syrian Arab Republic,0,2932,0.0,False,
+2019,TCD,Chad,0,2026,0.0,False,
+2019,TGO,Togo,0,2057,0.0,False,
+2019,THA,Thailand,0,1582,0.0,False,92.4679
+2019,TJK,Tajikistan,2,1570,1.2738853503184713,False,
+2019,TKM,Turkmenistan,0,2095,0.0,False,
+2019,TLS,Timor-Leste,1,1708,0.585480093676815,False,
+2019,TON,Tonga,4,1572,2.544529262086514,False,
+2019,TTO,Trinidad and Tobago,0,3018,0.0,False,99.9968
+2019,TUN,Tunisia,0,2066,0.0,False,
+2019,TUR,Türkiye,0,3923,0.0,False,87.10014
+2019,TUV,Tuvalu,5,1956,2.556237218813906,False,
+2019,TZA,United Republic of Tanzania,3,2210,1.3574660633484161,False,
+2019,UGA,Uganda,2,2429,0.8233841086867023,False,
+2019,UKR,Ukraine,0,1554,0.0,False,72.9023
+2019,URY,Uruguay,1,2994,0.33400133600534404,False,
+2019,USA,United States of America,0,3810,0.0,False,84.46597
+2019,VAT,Holy See,0,1783,0.0,False,
+2019,VCT,Saint Vincent and the Grenadines,1,2704,0.3698224852071006,False,
+2019,VEN,Venezuela (Bolivarian Republic of),0,3855,0.0,False,88.62861
+2019,VNM,Viet Nam,0,1759,0.0,False,93.04727
+2019,VUT,Vanuatu,1,2003,0.4992511233150275,False,
+2019,WSM,Samoa,0,2294,0.0,False,
+2019,YEM,Yemen,0,2071,0.0,False,
+2019,ZAF,South Africa,0,2412,0.0,True,96.165436
+2019,ZMB,Zambia,0,1715,0.0,False,
+2019,ZWE,Zimbabwe,0,1297,0.0,False,
+2020,AFG,Afghanistan,3,1900,1.5789473684210527,False,
+2020,AGO,Angola,0,1182,0.0,False,
+2020,ALB,Albania,1,1759,0.5685048322910744,False,
+2020,AND,Andorra,1,2489,0.4017677782241864,False,
+2020,ARE,United Arab Emirates,0,1840,0.0,True,99.139114
+2020,ARG,Argentina,0,1885,0.0,False,90.019264
+2020,ARM,Armenia,0,1481,0.0,False,
+2020,ATG,Antigua and Barbuda,0,1675,0.0,False,
+2020,AUS,Australia,2,1962,1.0193679918450562,True,95.12597
+2020,AUT,Austria,0,1699,0.0,False,78.02359
+2020,AZE,Azerbaijan,0,3186,0.0,False,99.17102
+2020,BDI,Burundi,0,1939,0.0,False,
+2020,BEL,Belgium,0,2138,0.0,False,77.5761
+2020,BEN,Benin,1,1339,0.7468259895444362,False,
+2020,BFA,Burkina Faso,0,1820,0.0,False,
+2020,BGD,Bangladesh,0,2039,0.0,False,99.72078
+2020,BGR,Bulgaria,0,1693,0.0,False,67.4212
+2020,BHR,Bahrain,0,1152,0.0,False,
+2020,BHS,Bahamas,0,1318,0.0,False,
+2020,BIH,Bosnia and Herzegovina,0,2389,0.0,False,
+2020,BLR,Belarus,0,1839,0.0,False,99.09216
+2020,BLZ,Belize,2,2983,0.670465973851827,False,
+2020,BOL,Bolivia (Plurinational State of),0,1449,0.0,False,
+2020,BRA,Brazil,0,1843,0.0,True,64.92185
+2020,BRB,Barbados,0,1882,0.0,False,
+2020,BTN,Bhutan,0,2253,0.0,False,
+2020,BWA,Botswana,0,2354,0.0,False,
+2020,CAF,Central African Republic,0,1414,0.0,False,
+2020,CAN,Canada,0,1411,0.0,False,75.65068
+2020,CHE,Switzerland,0,1039,0.0,False,54.093124
+2020,CHL,Chile,3,3092,0.9702457956015524,False,84.90347
+2020,CHN,China,2,1848,1.0822510822510822,False,91.05759
+2020,CIV,Côte d’Ivoire,0,1755,0.0,False,
+2020,CMR,Cameroon,0,1274,0.0,False,
+2020,COD,Democratic Republic of the Congo,0,2402,0.0,False,
+2020,COG,Congo,0,779,0.0,False,
+2020,COL,Colombia,1,1788,0.5592841163310962,False,85.243416
+2020,COM,Comoros,0,1871,0.0,False,
+2020,CPV,Cabo Verde,1,1319,0.7581501137225171,False,
+2020,CRI,Costa Rica,2,2365,0.8456659619450316,False,
+2020,CUB,Cuba,0,2534,0.0,False,
+2020,CYP,Cyprus,0,2643,0.0,False,
+2020,CZE,Czechia,0,1986,0.0,False,74.08886
+2020,DEU,Germany,0,1849,0.0,False,81.36515
+2020,DJI,Djibouti,0,1580,0.0,False,
+2020,DMA,Dominica,0,1534,0.0,False,
+2020,DNK,Denmark,1,603,1.658374792703151,False,73.76624
+2020,DOM,Dominican Republic,0,1805,0.0,False,
+2020,DZA,Algeria,0,1283,0.0,True,99.88539
+2020,ECU,Ecuador,0,1282,0.0,False,81.8093
+2020,EGY,Egypt,1,3401,0.2940311673037342,False,97.49386
+2020,ERI,Eritrea,0,540,0.0,False,
+2020,ESP,Spain,1,3277,0.3051571559353067,False,74.4988
+2020,EST,Estonia,1,932,1.0729613733905579,False,87.37938
+2020,ETH,Ethiopia,0,1086,0.0,False,
+2020,EU,,0,1880,0.0,False,
+2020,FIN,Finland,1,1469,0.6807351940095302,False,53.09344
+2020,FJI,Fiji,4,1721,2.324230098779779,False,
+2020,FRA,France,1,7082,0.1412030499858797,False,49.138332
+2020,FSM,Micronesia (Federated States of),2,2362,0.8467400508044031,False,
+2020,GAB,Gabon,2,1708,1.17096018735363,False,
+2020,GBR,United Kingdom of Great Britain and Northern Ireland,0,2185,0.0,False,79.25963
+2020,GEO,Georgia,0,1966,0.0,False,
+2020,GHA,Ghana,0,1517,0.0,False,
+2020,GIN,Guinea,0,903,0.0,False,
+2020,GMB,Gambia,0,1484,0.0,False,
+2020,GNB,Guinea-Bissau,0,1471,0.0,False,
+2020,GNQ,Equatorial Guinea,0,1526,0.0,False,
+2020,GRC,Greece,1,1582,0.6321112515802781,False,91.576225
+2020,GRD,Grenada,0,1354,0.0,False,
+2020,GTM,Guatemala,0,2020,0.0,False,
+2020,GUY,Guyana,1,1752,0.5707762557077625,False,
+2020,HND,Honduras,0,2034,0.0,False,
+2020,HRV,Croatia,0,2284,0.0,False,84.77545
+2020,HTI,Haiti,1,1067,0.9372071227741331,False,
+2020,HUN,Hungary,0,681,0.0,False,77.303185
+2020,IDN,Indonesia,0,950,0.0,True,86.535614
+2020,IND,India,0,1636,0.0,False,94.10148
+2020,IRL,Ireland,0,1995,0.0,False,88.73579
+2020,IRN,Iran (Islamic Republic of),0,1605,0.0,True,98.6949
+2020,IRQ,Iraq,0,1889,0.0,True,
+2020,ISL,Iceland,2,1588,1.2594458438287153,False,
+2020,ISR,Israel,0,1490,0.0,False,98.13332
+2020,ITA,Italy,1,2560,0.390625,False,85.31129
+2020,JAM,Jamaica,0,1447,0.0,False,
+2020,JOR,Jordan,0,738,0.0,False,
+2020,JPN,Japan,0,1555,0.0,False,91.15691
+2020,KAZ,Kazakhstan,1,1796,0.5567928730512249,True,98.332886
+2020,KEN,Kenya,0,2343,0.0,False,
+2020,KGZ,Kyrgyzstan,1,1098,0.9107468123861566,False,
+2020,KHM,Cambodia,0,1619,0.0,False,
+2020,KIR,Kiribati,0,1962,0.0,False,
+2020,KNA,Saint Kitts and Nevis,0,1877,0.0,False,
+2020,KOR,Republic of Korea,1,2069,0.4833252779120348,False,83.54057
+2020,KWT,Kuwait,0,2340,0.0,True,99.983376
+2020,LAO,Lao People's Democratic Republic,0,1884,0.0,False,
+2020,LBN,Lebanon,0,1690,0.0,False,
+2020,LBR,Liberia,0,1394,0.0,False,
+2020,LBY,Libya,0,2834,0.0,False,
+2020,LCA,Saint Lucia,0,2250,0.0,False,
+2020,LIE,Liechtenstein,0,2058,0.0,False,
+2020,LKA,Sri Lanka,0,1650,0.0,False,
+2020,LSO,Lesotho,0,2542,0.0,False,
+2020,LTU,Lithuania,3,1800,1.6666666666666667,False,92.57004
+2020,LUX,Luxembourg,0,2412,0.0,False,91.483284
+2020,LVA,Latvia,0,1392,0.0,False,83.68913
+2020,MAR,Morocco,0,2476,0.0,False,96.97933
+2020,MCO,Monaco,1,1610,0.6211180124223603,False,
+2020,MDA,Republic of Moldova,0,2476,0.0,False,
+2020,MDG,Madagascar,0,1760,0.0,False,
+2020,MDV,Maldives,0,2083,0.0,False,
+2020,MEX,Mexico,0,1360,0.0,True,92.18381
+2020,MHL,Marshall Islands,0,1659,0.0,False,
+2020,MKD,North Macedonia,1,1593,0.6277463904582549,False,93.72835
+2020,MLT,Malta,4,3003,1.332001332001332,False,
+2020,MMR,Myanmar,0,3932,0.0,False,
+2020,MNE,Montenegro,0,1927,0.0,False,
+2020,MNG,Mongolia,0,749,0.0,False,
+2020,MOZ,Mozambique,2,1846,1.0834236186348862,False,
+2020,MRT,Mauritania,0,1340,0.0,False,
+2020,MUS,Mauritius,0,2125,0.0,False,
+2020,MWI,Malawi,0,1527,0.0,False,
+2020,MYS,Malaysia,0,2489,0.0,False,96.31837
+2020,NAM,Namibia,0,1399,0.0,False,
+2020,NER,Niger,0,3270,0.0,False,
+2020,NGA,Nigeria,0,2020,0.0,False,
+2020,NIC,Nicaragua,0,1432,0.0,False,
+2020,NLD,Netherlands (Kingdom of the),0,910,0.0,False,92.3936
+2020,NOR,Norway,1,1771,0.564652738565782,True,50.29546
+2020,NPL,Nepal,0,2521,0.0,False,
+2020,NRU,Naoero,0,2434,0.0,False,
+2020,NZL,New Zealand,0,1533,0.0,False,56.602596
+2020,OMN,Oman,0,1137,0.0,False,99.95572
+2020,PAK,Pakistan,0,2739,0.0,False,91.34693
+2020,PAN,Panama,0,1100,0.0,False,
+2020,PER,Peru,0,1767,0.0,False,83.25641
+2020,PHL,Philippines,0,2028,0.0,False,78.04228
+2020,PLW,Palau,4,2836,1.4104372355430184,False,
+2020,PNG,Papua New Guinea,0,2405,0.0,False,
+2020,POL,Poland,0,2255,0.0,False,94.84164
+2020,PRK,Democratic People's Republic of Korea,0,1342,0.0,False,
+2020,PRT,Portugal,0,1644,0.0,False,80.89581
+2020,PRY,Paraguay,0,826,0.0,False,
+2020,PSE,State of Palestine,0,1129,0.0,False,
+2020,QAT,Qatar,0,2067,0.0,True,99.91931
+2020,ROU,Romania,0,1944,0.0,False,80.53533
+2020,RUS,Russian Federation,0,2342,0.0,True,88.81156
+2020,RWA,Rwanda,0,638,0.0,False,
+2020,SAU,Saudi Arabia,0,1762,0.0,True,99.96824
+2020,SDN,Sudan,0,2054,0.0,False,
+2020,SEN,Senegal,0,2228,0.0,False,
+2020,SGP,Singapore,0,2099,0.0,False,99.74507
+2020,SLB,Solomon Islands,0,2368,0.0,False,
+2020,SLE,Sierra Leone,0,1791,0.0,False,
+2020,SLV,El Salvador,0,2344,0.0,False,
+2020,SMR,San Marino,0,1983,0.0,False,
+2020,SOM,Somalia,0,1400,0.0,False,
+2020,SRB,Serbia,0,2609,0.0,False,
+2020,STP,Sao Tome and Principe,0,1241,0.0,False,
+2020,SUR,Suriname,0,1233,0.0,False,
+2020,SVK,Slovakia,0,960,0.0,False,67.37083
+2020,SVN,Slovenia,0,1245,0.0,False,63.20348
+2020,SWE,Sweden,1,1586,0.6305170239596469,False,35.840664
+2020,SWZ,Eswatini,0,2234,0.0,False,
+2020,SYC,Seychelles,1,1537,0.6506180871828238,False,
+2020,SYR,Syrian Arab Republic,0,2054,0.0,False,
+2020,TCD,Chad,0,2321,0.0,False,
+2020,TGO,Togo,0,1557,0.0,False,
+2020,THA,Thailand,0,1840,0.0,False,92.49205
+2020,TJK,Tajikistan,1,2385,0.4192872117400419,False,
+2020,TKM,Turkmenistan,0,2211,0.0,False,
+2020,TLS,Timor-Leste,0,1405,0.0,False,
+2020,TON,Tonga,1,1720,0.5813953488372093,False,
+2020,TTO,Trinidad and Tobago,0,2366,0.0,False,99.99631
+2020,TUN,Tunisia,0,772,0.0,False,
+2020,TUR,Türkiye,0,3074,0.0,False,86.625565
+2020,TUV,Tuvalu,3,1424,2.106741573033708,False,
+2020,TZA,United Republic of Tanzania,0,1940,0.0,False,
+2020,UGA,Uganda,1,2571,0.38895371450797356,False,
+2020,UKR,Ukraine,0,1712,0.0,False,73.64957
+2020,URY,Uruguay,0,2055,0.0,False,
+2020,USA,United States of America,0,981,0.0,False,83.30921
+2020,UZB,Uzbekistan,0,1660,0.0,False,99.05551
+2020,VAT,Holy See,0,2583,0.0,False,
+2020,VCT,Saint Vincent and the Grenadines,0,2168,0.0,False,
+2020,VEN,Venezuela (Bolivarian Republic of),0,3949,0.0,False,83.79957
+2020,VNM,Viet Nam,0,1095,0.0,False,91.84327
+2020,VUT,Vanuatu,0,2231,0.0,False,
+2020,WSM,Samoa,0,1865,0.0,False,
+2020,YEM,Yemen,0,1324,0.0,False,
+2020,ZAF,South Africa,1,1499,0.66711140760507,True,96.1423
+2020,ZMB,Zambia,0,679,0.0,False,
+2020,ZWE,Zimbabwe,0,1262,0.0,False,
+2021,AGO,Angola,0,1154,0.0,False,
+2021,ALB,Albania,2,2044,0.9784735812133072,False,
+2021,AND,Andorra,4,2361,1.6941973739940703,False,
+2021,ARE,United Arab Emirates,2,1989,1.0055304172951232,True,96.960884
+2021,ARG,Argentina,2,1955,1.023017902813299,False,90.72697
+2021,ARM,Armenia,0,1322,0.0,False,
+2021,ATG,Antigua and Barbuda,3,2659,1.1282437006393382,False,
+2021,AUS,Australia,8,2143,3.733084461035931,True,94.19348
+2021,AUT,Austria,0,1544,0.0,False,79.586296
+2021,AZE,Azerbaijan,7,3727,1.8781862087469816,False,99.12073
+2021,BDI,Burundi,0,2404,0.0,False,
+2021,BEL,Belgium,2,1943,1.029336078229542,False,73.706474
+2021,BEN,Benin,1,1061,0.942507068803016,False,
+2021,BFA,Burkina Faso,0,2232,0.0,False,
+2021,BGD,Bangladesh,0,2428,0.0,False,99.71525
+2021,BGR,Bulgaria,0,1279,0.0,False,68.97507
+2021,BHR,Bahrain,1,2472,0.4045307443365696,False,
+2021,BHS,Bahamas,0,1662,0.0,False,
+2021,BIH,Bosnia and Herzegovina,1,3098,0.32278889606197547,False,
+2021,BLR,Belarus,0,2604,0.0,False,93.684326
+2021,BLZ,Belize,2,2358,0.8481764206955047,False,
+2021,BOL,Bolivia (Plurinational State of),0,2768,0.0,False,
+2021,BRA,Brazil,5,1499,3.33555703802535,True,68.06453
+2021,BRB,Barbados,0,1799,0.0,False,
+2021,BRN,Brunei Darussalam,0,1198,0.0,False,
+2021,BTN,Bhutan,0,2214,0.0,False,
+2021,BWA,Botswana,0,2575,0.0,False,
+2021,CAF,Central African Republic,0,1384,0.0,False,
+2021,CAN,Canada,0,2738,0.0,False,76.44413
+2021,CHE,Switzerland,2,1252,1.5974440894568689,False,56.200783
+2021,CHL,Chile,6,2957,2.029083530605343,False,86.01681
+2021,CHN,China,3,1523,1.969796454366382,False,90.5623
+2021,CIV,Côte d’Ivoire,1,2879,0.3473428273706148,False,
+2021,CMR,Cameroon,0,1079,0.0,False,
+2021,COD,Democratic Republic of the Congo,0,4263,0.0,False,
+2021,COG,Congo,0,1524,0.0,False,
+2021,COL,Colombia,3,2665,1.125703564727955,False,83.78766
+2021,COM,Comoros,0,2973,0.0,False,
+2021,CPV,Cabo Verde,0,2428,0.0,False,
+2021,CRI,Costa Rica,1,2110,0.47393364928909953,False,
+2021,CUB,Cuba,0,2192,0.0,False,
+2021,CYP,Cyprus,0,2560,0.0,False,
+2021,CZE,Czechia,0,1636,0.0,False,74.87705
+2021,DEU,Germany,0,2084,0.0,False,82.243355
+2021,DJI,Djibouti,0,1442,0.0,False,
+2021,DMA,Dominica,1,1919,0.5211047420531526,False,
+2021,DNK,Denmark,1,844,1.1848341232227488,False,70.7736
+2021,DOM,Dominican Republic,0,1551,0.0,False,
+2021,DZA,Algeria,0,2115,0.0,True,99.90323
+2021,ECU,Ecuador,0,2193,0.0,False,84.10172
+2021,EGY,Egypt,0,1879,0.0,False,97.514915
+2021,ERI,Eritrea,0,1241,0.0,False,
+2021,ESP,Spain,4,4029,0.9928021841648053,False,75.632805
+2021,EST,Estonia,0,2438,0.0,False,88.29954
+2021,ETH,Ethiopia,1,1895,0.5277044854881267,False,
+2021,EU,,1,2112,0.4734848484848485,False,
+2021,FIN,Finland,0,1647,0.0,False,51.12716
+2021,FJI,Fiji,4,1863,2.147074610842727,False,
+2021,FRA,France,1,2182,0.4582951420714941,False,49.600082
+2021,FSM,Micronesia (Federated States of),0,2730,0.0,False,
+2021,GAB,Gabon,2,2053,0.974184120798831,False,
+2021,GBR,United Kingdom of Great Britain and Northern Ireland,9,2977,3.023177695666779,False,80.77828
+2021,GEO,Georgia,0,2096,0.0,False,
+2021,GHA,Ghana,0,2082,0.0,False,
+2021,GIN,Guinea,0,1511,0.0,False,
+2021,GMB,Gambia,0,2192,0.0,False,
+2021,GNB,Guinea-Bissau,0,480,0.0,False,
+2021,GNQ,Equatorial Guinea,0,1379,0.0,False,
+2021,GRC,Greece,2,2016,0.992063492063492,False,90.39123
+2021,GRD,Grenada,0,1939,0.0,False,
+2021,GTM,Guatemala,1,2637,0.37921880925293894,False,
+2021,GUY,Guyana,0,2341,0.0,False,
+2021,HND,Honduras,0,3277,0.0,False,
+2021,HRV,Croatia,3,2157,1.3908205841446453,False,82.52094
+2021,HTI,Haiti,0,2213,0.0,False,
+2021,HUN,Hungary,0,1791,0.0,False,77.74617
+2021,IDN,Indonesia,1,611,1.6366612111292964,True,86.15206
+2021,IND,India,1,1571,0.6365372374283895,False,94.31964
+2021,IRL,Ireland,0,2502,0.0,False,90.23507
+2021,IRN,Iran (Islamic Republic of),0,2008,0.0,True,99.21353
+2021,IRQ,Iraq,0,2108,0.0,True,
+2021,ISL,Iceland,5,2047,2.4425989252564726,False,
+2021,ISR,Israel,0,2502,0.0,False,97.77586
+2021,ITA,Italy,4,2503,1.5980823012385137,False,86.44972
+2021,JAM,Jamaica,0,1755,0.0,False,
+2021,JOR,Jordan,0,903,0.0,False,
+2021,JPN,Japan,3,2063,1.454192922927775,False,89.89062
+2021,KAZ,Kazakhstan,3,1735,1.7291066282420748,True,98.42966
+2021,KEN,Kenya,0,1505,0.0,False,
+2021,KGZ,Kyrgyzstan,2,2398,0.8340283569641368,False,
+2021,KHM,Cambodia,0,1023,0.0,False,
+2021,KIR,Kiribati,0,1521,0.0,False,
+2021,KNA,Saint Kitts and Nevis,0,1535,0.0,False,
+2021,KOR,Republic of Korea,11,2132,5.159474671669793,False,84.15904
+2021,KWT,Kuwait,0,1903,0.0,True,99.954025
+2021,LAO,Lao People's Democratic Republic,0,1802,0.0,False,
+2021,LBN,Lebanon,0,1746,0.0,False,
+2021,LBR,Liberia,0,2036,0.0,False,
+2021,LBY,Libya,0,1543,0.0,False,
+2021,LCA,Saint Lucia,0,2981,0.0,False,
+2021,LIE,Liechtenstein,1,1674,0.5973715651135005,False,
+2021,LKA,Sri Lanka,2,1426,1.402524544179523,False,
+2021,LSO,Lesotho,2,3200,0.625,False,
+2021,LTU,Lithuania,3,1704,1.7605633802816902,False,91.799644
+2021,LUX,Luxembourg,0,3675,0.0,False,92.02947
+2021,LVA,Latvia,1,1693,0.5906674542232723,False,84.26735
+2021,MAR,Morocco,2,2952,0.6775067750677507,False,96.97876
+2021,MCO,Monaco,2,1499,1.33422281521014,False,
+2021,MDA,Republic of Moldova,1,1483,0.6743088334457181,False,
+2021,MDG,Madagascar,0,1740,0.0,False,
+2021,MDV,Maldives,2,1957,1.021972406745018,False,
+2021,MEX,Mexico,0,1750,0.0,True,92.03672
+2021,MHL,Marshall Islands,0,1915,0.0,False,
+2021,MKD,North Macedonia,0,1764,0.0,False,93.29352
+2021,MLI,Mali,0,3640,0.0,False,
+2021,MLT,Malta,7,3596,1.946607341490545,False,
+2021,MNE,Montenegro,0,2097,0.0,False,
+2021,MNG,Mongolia,0,3168,0.0,False,
+2021,MOZ,Mozambique,0,1503,0.0,False,
+2021,MRT,Mauritania,0,1576,0.0,False,
+2021,MUS,Mauritius,0,1809,0.0,False,
+2021,MWI,Malawi,1,1476,0.6775067750677507,False,
+2021,MYS,Malaysia,2,2447,0.8173273395995097,False,96.109215
+2021,NAM,Namibia,2,1326,1.5082956259426847,False,
+2021,NER,Niger,0,2293,0.0,False,
+2021,NGA,Nigeria,1,1892,0.5285412262156448,False,
+2021,NIC,Nicaragua,0,2527,0.0,False,
+2021,NLD,Netherlands (Kingdom of the),1,2245,0.44543429844098,False,91.373795
+2021,NOR,Norway,3,1523,1.969796454366382,True,49.48299
+2021,NPL,Nepal,2,2989,0.6691201070592171,False,
+2021,NRU,Naoero,1,2529,0.39541320680110714,False,
+2021,NZL,New Zealand,0,2607,0.0,False,55.485977
+2021,OMN,Oman,0,1578,0.0,False,99.79718
+2021,PAK,Pakistan,1,2586,0.3866976024748647,False,90.45082
+2021,PAN,Panama,0,1115,0.0,False,
+2021,PER,Peru,0,1863,0.0,False,84.73111
+2021,PHL,Philippines,0,1495,0.0,False,79.5911
+2021,PLW,Palau,0,1660,0.0,False,
+2021,PNG,Papua New Guinea,8,5891,1.3580037345102698,False,
+2021,POL,Poland,3,3202,0.9369144284821986,False,95.025475
+2021,PRK,Democratic People's Republic of Korea,0,3672,0.0,False,
+2021,PRT,Portugal,0,887,0.0,False,79.719406
+2021,PRY,Paraguay,1,1003,0.9970089730807576,False,
+2021,PSE,State of Palestine,0,3026,0.0,False,
+2021,QAT,Qatar,1,2248,0.4448398576512455,True,99.9241
+2021,ROU,Romania,0,1084,0.0,False,81.23928
+2021,RUS,Russian Federation,0,2713,0.0,True,88.862526
+2021,RWA,Rwanda,0,492,0.0,False,
+2021,SAU,Saudi Arabia,0,1183,0.0,True,99.966446
+2021,SDN,Sudan,0,2037,0.0,False,
+2021,SEN,Senegal,7,1686,4.151838671411625,False,
+2021,SGP,Singapore,2,1874,1.0672358591248667,False,99.73807
+2021,SLB,Solomon Islands,0,2877,0.0,False,
+2021,SLE,Sierra Leone,1,2135,0.468384074941452,False,
+2021,SLV,El Salvador,0,1373,0.0,False,
+2021,SMR,San Marino,1,1862,0.5370569280343717,False,
+2021,SOM,Somalia,0,1365,0.0,False,
+2021,SRB,Serbia,0,2176,0.0,False,
+2021,SSD,South Sudan,0,2044,0.0,False,
+2021,STP,Sao Tome and Principe,0,1685,0.0,False,
+2021,SUR,Suriname,0,1280,0.0,False,
+2021,SVK,Slovakia,3,1003,2.991026919242273,False,69.22601
+2021,SVN,Slovenia,3,1263,2.375296912114014,False,65.62562
+2021,SWE,Sweden,1,1399,0.7147962830593281,False,36.01485
+2021,SWZ,Eswatini,0,2367,0.0,False,
+2021,SYC,Seychelles,1,1367,0.731528895391368,False,
+2021,SYR,Syrian Arab Republic,0,2631,0.0,False,
+2021,TCD,Chad,0,2329,0.0,False,
+2021,TGO,Togo,1,1883,0.5310674455655868,False,
+2021,THA,Thailand,3,2460,1.2195121951219512,False,92.177185
+2021,TJK,Tajikistan,0,2289,0.0,False,
+2021,TKM,Turkmenistan,0,1601,0.0,False,
+2021,TLS,Timor-Leste,0,2184,0.0,False,
+2021,TON,Tonga,3,1859,1.6137708445400754,False,
+2021,TTO,Trinidad and Tobago,1,2178,0.4591368227731864,False,99.996376
+2021,TUN,Tunisia,0,1483,0.0,False,
+2021,TUR,Türkiye,2,3410,0.5865102639296188,False,87.67359
+2021,TUV,Tuvalu,0,1632,0.0,False,
+2021,TZA,United Republic of Tanzania,0,1583,0.0,False,
+2021,UGA,Uganda,1,2967,0.3370407819346141,False,
+2021,UKR,Ukraine,0,2779,0.0,False,70.76979
+2021,URY,Uruguay,0,854,0.0,False,
+2021,USA,United States of America,2,4419,0.45259108395564607,False,83.971054
+2021,UZB,Uzbekistan,4,1298,3.0816640986132513,False,99.129105
+2021,VAT,Holy See,1,2625,0.380952380952381,False,
+2021,VCT,Saint Vincent and the Grenadines,0,2014,0.0,False,
+2021,VEN,Venezuela (Bolivarian Republic of),0,1953,0.0,False,86.21241
+2021,VNM,Viet Nam,0,1978,0.0,False,88.93325
+2021,VUT,Vanuatu,0,2315,0.0,False,
+2021,WSM,Samoa,1,2523,0.39635354736424894,False,
+2021,YEM,Yemen,0,2505,0.0,False,
+2021,ZAF,South Africa,0,1207,0.0,True,95.75271
+2021,ZMB,Zambia,0,2348,0.0,False,
+2021,ZWE,Zimbabwe,3,1580,1.8987341772151898,False,
+2022,AGO,Angola,1,1231,0.8123476848090982,False,
+2022,ALB,Albania,0,2330,0.0,False,
+2022,AND,Andorra,2,2768,0.722543352601156,False,
+2022,ARE,United Arab Emirates,2,1847,1.0828370330265296,True,94.577736
+2022,ARG,Argentina,2,2120,0.9433962264150944,False,90.99995
+2022,ARM,Armenia,0,2064,0.0,False,
+2022,ATG,Antigua and Barbuda,0,3082,0.0,False,
+2022,AUS,Australia,2,2359,0.8478168715557439,True,93.75335
+2022,AUT,Austria,0,1650,0.0,False,78.986595
+2022,AZE,Azerbaijan,3,2893,1.0369858278603525,False,99.01146
+2022,BDI,Burundi,1,2290,0.4366812227074236,False,
+2022,BEL,Belgium,2,2110,0.9478672985781991,False,74.32273
+2022,BEN,Benin,1,1490,0.6711409395973154,False,
+2022,BFA,Burkina Faso,0,2336,0.0,False,
+2022,BGD,Bangladesh,0,2583,0.0,False,99.71295
+2022,BGR,Bulgaria,0,1518,0.0,False,70.66901
+2022,BHR,Bahrain,2,2289,0.873743993010048,False,
+2022,BHS,Bahamas,2,2030,0.9852216748768472,False,
+2022,BIH,Bosnia and Herzegovina,0,2794,0.0,False,
+2022,BLR,Belarus,0,2398,0.0,False,94.57921
+2022,BLZ,Belize,3,2323,1.2914334911752046,False,
+2022,BOL,Bolivia (Plurinational State of),3,4197,0.7147962830593281,False,
+2022,BRA,Brazil,5,2530,1.976284584980237,True,65.383766
+2022,BRB,Barbados,4,3061,1.306762495916367,False,
+2022,BRN,Brunei Darussalam,3,1136,2.640845070422535,False,
+2022,BTN,Bhutan,4,3178,1.2586532410320956,False,
+2022,BWA,Botswana,1,2849,0.351000351000351,False,
+2022,CAF,Central African Republic,0,1399,0.0,False,
+2022,CAN,Canada,1,2253,0.44385264092321347,False,76.82631
+2022,CHE,Switzerland,0,1909,0.0,False,56.59067
+2022,CHL,Chile,1,2502,0.3996802557953637,False,84.63623
+2022,CHN,China,2,3062,0.6531678641410843,False,90.0905
+2022,CIV,Côte d’Ivoire,0,1364,0.0,False,
+2022,CMR,Cameroon,0,2213,0.0,False,
+2022,COD,Democratic Republic of the Congo,8,4207,1.9015925837889232,False,
+2022,COG,Congo,0,1538,0.0,False,
+2022,COL,Colombia,0,2255,0.0,False,84.37194
+2022,COM,Comoros,0,2124,0.0,False,
+2022,CPV,Cabo Verde,0,1391,0.0,False,
+2022,CRI,Costa Rica,0,1809,0.0,False,
+2022,CUB,Cuba,0,1949,0.0,False,
+2022,CYP,Cyprus,0,2493,0.0,False,
+2022,CZE,Czechia,0,1913,0.0,False,74.18174
+2022,DEU,Germany,2,2366,0.8453085376162299,False,83.98101
+2022,DJI,Djibouti,0,1902,0.0,False,
+2022,DMA,Dominica,0,2689,0.0,False,
+2022,DNK,Denmark,0,1873,0.0,False,71.14173
+2022,DOM,Dominican Republic,0,1738,0.0,False,
+2022,DZA,Algeria,0,1556,0.0,True,99.907104
+2022,ECU,Ecuador,0,2550,0.0,False,85.66002
+2022,EGY,Egypt,2,1878,1.0649627263045793,False,97.604866
+2022,ERI,Eritrea,0,827,0.0,False,
+2022,ESP,Spain,3,3256,0.9213759213759214,False,76.60223
+2022,EST,Estonia,0,2325,0.0,False,89.65157
+2022,ETH,Ethiopia,1,1212,0.8250825082508251,False,
+2022,EU,,2,2556,0.7824726134585289,False,
+2022,FIN,Finland,1,1390,0.7194244604316546,False,49.348198
+2022,FJI,Fiji,1,1832,0.5458515283842794,False,
+2022,FRA,France,2,3763,0.5314908317831517,False,53.999916
+2022,FSM,Micronesia (Federated States of),0,2401,0.0,False,
+2022,GAB,Gabon,1,1356,0.7374631268436578,False,
+2022,GBR,United Kingdom of Great Britain and Northern Ireland,0,1844,0.0,False,79.89862
+2022,GEO,Georgia,0,2066,0.0,False,
+2022,GHA,Ghana,1,1800,0.5555555555555556,False,
+2022,GIN,Guinea,0,1794,0.0,False,
+2022,GMB,Gambia,0,1610,0.0,False,
+2022,GNB,Guinea-Bissau,0,730,0.0,False,
+2022,GNQ,Equatorial Guinea,0,1143,0.0,False,
+2022,GRC,Greece,2,2239,0.8932559178204555,False,90.54596
+2022,GRD,Grenada,1,2664,0.37537537537537535,False,
+2022,GTM,Guatemala,2,2670,0.7490636704119851,False,
+2022,GUY,Guyana,10,2607,3.8358266206367473,False,
+2022,HND,Honduras,0,1371,0.0,False,
+2022,HRV,Croatia,3,1950,1.5384615384615385,False,85.02142
+2022,HTI,Haiti,0,2977,0.0,False,
+2022,HUN,Hungary,0,1271,0.0,False,76.15945
+2022,IDN,Indonesia,0,1119,0.0,True,87.511696
+2022,IND,India,0,1724,0.0,False,93.9014
+2022,IRL,Ireland,0,2882,0.0,False,89.27282
+2022,IRN,Iran (Islamic Republic of),0,3646,0.0,True,98.97147
+2022,IRQ,Iraq,1,1960,0.5102040816326531,True,
+2022,ISL,Iceland,1,2533,0.3947887879984208,False,
+2022,ISR,Israel,1,2546,0.3927729772191674,False,97.50759
+2022,ITA,Italy,2,2091,0.9564801530368245,False,87.55165
+2022,JAM,Jamaica,0,2114,0.0,False,
+2022,JOR,Jordan,0,1128,0.0,False,
+2022,JPN,Japan,0,2325,0.0,False,90.13198
+2022,KAZ,Kazakhstan,2,2213,0.9037505648441031,True,98.33388
+2022,KEN,Kenya,1,3987,0.25081514923501375,False,
+2022,KGZ,Kyrgyzstan,0,2196,0.0,False,
+2022,KHM,Cambodia,1,1641,0.6093845216331506,False,
+2022,KIR,Kiribati,0,1664,0.0,False,
+2022,KNA,Saint Kitts and Nevis,0,1658,0.0,False,
+2022,KOR,Republic of Korea,3,1237,2.425222312045271,False,82.633385
+2022,KWT,Kuwait,0,1253,0.0,True,99.963326
+2022,LAO,Lao People's Democratic Republic,1,1341,0.7457121551081282,False,
+2022,LBN,Lebanon,0,2026,0.0,False,
+2022,LBR,Liberia,0,1398,0.0,False,
+2022,LBY,Libya,0,1268,0.0,False,
+2022,LCA,Saint Lucia,0,2945,0.0,False,
+2022,LIE,Liechtenstein,0,1451,0.0,False,
+2022,LKA,Sri Lanka,4,2567,1.5582391897156214,False,
+2022,LSO,Lesotho,1,2312,0.43252595155709345,False,
+2022,LTU,Lithuania,1,1451,0.6891798759476223,False,90.43624
+2022,LUX,Luxembourg,2,3318,0.6027727546714888,False,91.21409
+2022,LVA,Latvia,1,1319,0.7581501137225171,False,83.13103
+2022,MAR,Morocco,1,2351,0.4253509145044662,False,97.19751
+2022,MCO,Monaco,4,1626,2.4600246002460024,False,
+2022,MDA,Republic of Moldova,0,1278,0.0,False,
+2022,MDG,Madagascar,3,2308,1.2998266897746968,False,
+2022,MDV,Maldives,1,1427,0.7007708479327259,False,
+2022,MEX,Mexico,0,1393,0.0,True,92.302956
+2022,MHL,Marshall Islands,3,2062,1.454898157129001,False,
+2022,MKD,North Macedonia,0,2854,0.0,False,93.935326
+2022,MLI,Mali,0,4435,0.0,False,
+2022,MLT,Malta,2,2673,0.7482229704451926,False,
+2022,MNE,Montenegro,0,2363,0.0,False,
+2022,MNG,Mongolia,0,2476,0.0,False,
+2022,MOZ,Mozambique,0,1392,0.0,False,
+2022,MRT,Mauritania,1,1574,0.6353240152477764,False,
+2022,MUS,Mauritius,0,2194,0.0,False,
+2022,MWI,Malawi,1,1842,0.5428881650380022,False,
+2022,MYS,Malaysia,3,1888,1.5889830508474578,False,95.85697
+2022,NAM,Namibia,2,1892,1.0570824524312896,False,
+2022,NER,Niger,0,1503,0.0,False,
+2022,NGA,Nigeria,1,1855,0.5390835579514826,False,
+2022,NIC,Nicaragua,0,1323,0.0,False,
+2022,NLD,Netherlands (Kingdom of the),1,1980,0.5050505050505051,False,89.59183
+2022,NOR,Norway,3,1765,1.6997167138810199,True,51.52354
+2022,NPL,Nepal,1,2478,0.4035512510088781,False,
+2022,NRU,Naoero,4,2282,1.7528483786152498,False,
+2022,NZL,New Zealand,0,2265,0.0,False,53.281372
+2022,OMN,Oman,2,1234,1.6207455429497568,False,99.535446
+2022,PAK,Pakistan,0,2830,0.0,False,87.398636
+2022,PAN,Panama,3,1711,1.7533606078316775,False,
+2022,PER,Peru,0,2188,0.0,False,86.06953
+2022,PHL,Philippines,1,2443,0.4093327875562833,False,79.72407
+2022,PLW,Palau,7,2150,3.255813953488372,False,
+2022,PNG,Papua New Guinea,0,3592,0.0,False,
+2022,POL,Poland,0,3588,0.0,False,94.183655
+2022,PRK,Democratic People's Republic of Korea,0,2513,0.0,False,
+2022,PRT,Portugal,3,1706,1.7584994138335288,False,81.65826
+2022,PRY,Paraguay,1,1246,0.8025682182985554,False,
+2022,PSE,State of Palestine,0,4484,0.0,False,
+2022,QAT,Qatar,3,1831,1.638448935008192,True,99.88066
+2022,ROU,Romania,3,1131,2.6525198938992043,False,80.73827
+2022,RUS,Russian Federation,0,3255,0.0,True,89.41025
+2022,RWA,Rwanda,0,679,0.0,False,
+2022,SAU,Saudi Arabia,0,1843,0.0,True,99.93573
+2022,SDN,Sudan,0,1421,0.0,False,
+2022,SEN,Senegal,1,1360,0.7352941176470588,False,
+2022,SGP,Singapore,4,2008,1.9920318725099602,False,99.60569
+2022,SLB,Solomon Islands,0,2415,0.0,False,
+2022,SLE,Sierra Leone,0,1613,0.0,False,
+2022,SLV,El Salvador,0,1591,0.0,False,
+2022,SMR,San Marino,0,2109,0.0,False,
+2022,SOM,Somalia,1,2138,0.4677268475210477,False,
+2022,SRB,Serbia,1,2631,0.38008361839604715,False,
+2022,SSD,South Sudan,0,1281,0.0,False,
+2022,SUR,Suriname,0,1356,0.0,False,
+2022,SVK,Slovakia,2,1358,1.4727540500736376,False,67.39534
+2022,SVN,Slovenia,0,892,0.0,False,66.58728
+2022,SWE,Sweden,0,1759,0.0,False,33.601738
+2022,SWZ,Eswatini,0,1775,0.0,False,
+2022,SYC,Seychelles,0,1469,0.0,False,
+2022,SYR,Syrian Arab Republic,0,2450,0.0,False,
+2022,TCD,Chad,0,2269,0.0,False,
+2022,TGO,Togo,4,2816,1.4204545454545454,False,
+2022,THA,Thailand,3,2065,1.452784503631961,False,92.012115
+2022,TJK,Tajikistan,0,2267,0.0,False,
+2022,TKM,Turkmenistan,0,1532,0.0,False,
+2022,TLS,Timor-Leste,1,1806,0.5537098560354374,False,
+2022,TON,Tonga,0,2551,0.0,False,
+2022,TTO,Trinidad and Tobago,0,1896,0.0,False,99.99639
+2022,TUN,Tunisia,0,1400,0.0,False,
+2022,TUR,Türkiye,1,3301,0.3029385034837928,False,86.24534
+2022,TUV,Tuvalu,1,1732,0.5773672055427251,False,
+2022,TZA,United Republic of Tanzania,2,1697,1.1785503830288744,False,
+2022,UGA,Uganda,1,1457,0.6863417982155113,False,
+2022,UKR,Ukraine,0,2992,0.0,False,68.2539
+2022,URY,Uruguay,0,1879,0.0,False,
+2022,USA,United States of America,4,3834,1.0432968179447053,False,83.87639
+2022,UZB,Uzbekistan,1,1794,0.5574136008918618,False,98.977234
+2022,VAT,Holy See,0,1556,0.0,False,
+2022,VCT,Saint Vincent and the Grenadines,0,2264,0.0,False,
+2022,VEN,Venezuela (Bolivarian Republic of),0,2553,0.0,False,87.05043
+2022,VNM,Viet Nam,1,1436,0.6963788300835655,False,87.33026
+2022,VUT,Vanuatu,0,1960,0.0,False,
+2022,WSM,Samoa,1,3350,0.2985074626865672,False,
+2022,YEM,Yemen,0,2802,0.0,False,
+2022,ZAF,South Africa,2,2066,0.968054211035818,True,95.64259
+2022,ZMB,Zambia,0,2292,0.0,False,
+2022,ZWE,Zimbabwe,2,2122,0.942507068803016,False,
+2023,AGO,Angola,0,2681,0.0,False,
+2023,ALB,Albania,0,1700,0.0,False,
+2023,AND,Andorra,3,2503,1.1985617259288852,False,
+2023,ARE,United Arab Emirates,1,2095,0.47732696897374705,True,91.676445
+2023,ARG,Argentina,0,2237,0.0,False,89.49008
+2023,ARM,Armenia,0,2213,0.0,False,
+2023,ATG,Antigua and Barbuda,0,3109,0.0,False,
+2023,AUS,Australia,2,2906,0.6882312456985547,True,93.10427
+2023,AUT,Austria,0,1476,0.0,False,75.58204
+2023,AZE,Azerbaijan,1,2738,0.36523009495982467,False,98.95635
+2023,BDI,Burundi,1,2540,0.39370078740157477,False,
+2023,BEL,Belgium,9,1530,5.88235294117647,False,77.18791
+2023,BEN,Benin,0,1704,0.0,False,
+2023,BFA,Burkina Faso,0,5125,0.0,False,
+2023,BGD,Bangladesh,0,1385,0.0,False,99.68397
+2023,BGR,Bulgaria,0,1528,0.0,False,66.30334
+2023,BHR,Bahrain,3,3065,0.9787928221859706,False,
+2023,BHS,Bahamas,0,1628,0.0,False,
+2023,BIH,Bosnia and Herzegovina,0,3109,0.0,False,
+2023,BLR,Belarus,0,1717,0.0,False,87.789604
+2023,BLZ,Belize,2,2081,0.9610764055742432,False,
+2023,BOL,Bolivia (Plurinational State of),0,2955,0.0,False,
+2023,BRA,Brazil,2,2354,0.8496176720475787,True,64.10935
+2023,BRB,Barbados,0,3146,0.0,False,
+2023,BRN,Brunei Darussalam,0,1017,0.0,False,
+2023,BTN,Bhutan,2,2006,0.9970089730807576,False,
+2023,BWA,Botswana,1,1487,0.6724949562878278,False,
+2023,CAF,Central African Republic,1,1615,0.6191950464396285,False,
+2023,CAN,Canada,0,3922,0.0,False,77.49202
+2023,CHE,Switzerland,0,1480,0.0,False,54.287704
+2023,CHL,Chile,2,2852,0.7012622720897616,False,81.54988
+2023,CHN,China,3,1640,1.829268292682927,False,89.96409
+2023,CIV,Côte d’Ivoire,1,1559,0.6414368184733803,False,
+2023,CMR,Cameroon,0,1462,0.0,False,
+2023,COD,Democratic Republic of the Congo,0,3029,0.0,False,
+2023,COG,Congo,0,1761,0.0,False,
+2023,COL,Colombia,4,2589,1.544998068752414,False,84.91723
+2023,COM,Comoros,0,2228,0.0,False,
+2023,CPV,Cabo Verde,1,1319,0.7581501137225171,False,
+2023,CRI,Costa Rica,0,1523,0.0,False,
+2023,CUB,Cuba,0,2665,0.0,False,
+2023,CYP,Cyprus,0,2487,0.0,False,
+2023,CZE,Czechia,1,1584,0.6313131313131314,False,72.30096
+2023,DEU,Germany,0,2456,0.0,False,84.55189
+2023,DJI,Djibouti,3,2446,1.2264922322158627,False,
+2023,DMA,Dominica,0,2282,0.0,False,
+2023,DNK,Denmark,3,1672,1.7942583732057418,False,70.09147
+2023,DOM,Dominican Republic,1,1890,0.5291005291005292,False,
+2023,DZA,Algeria,0,2213,0.0,True,99.90391
+2023,ECU,Ecuador,0,1671,0.0,False,85.92032
+2023,EGY,Egypt,2,2323,0.8609556607834696,False,97.538216
+2023,ERI,Eritrea,0,867,0.0,False,
+2023,ESP,Spain,2,3147,0.6355258976803305,False,74.11194
+2023,EST,Estonia,0,2173,0.0,False,89.192986
+2023,ETH,Ethiopia,0,1438,0.0,False,
+2023,EU,,3,2678,1.1202389843166543,False,
+2023,FIN,Finland,0,1315,0.0,False,41.710907
+2023,FJI,Fiji,0,1615,0.0,False,
+2023,FRA,France,2,2056,0.9727626459143969,False,49.00708
+2023,FSM,Micronesia (Federated States of),2,1964,1.0183299389002036,False,
+2023,GAB,Gabon,0,2502,0.0,False,
+2023,GBR,United Kingdom of Great Britain and Northern Ireland,0,2030,0.0,False,79.98399
+2023,GEO,Georgia,3,1812,1.6556291390728477,False,
+2023,GHA,Ghana,0,2144,0.0,False,
+2023,GIN,Guinea,0,1679,0.0,False,
+2023,GMB,Gambia,0,2113,0.0,False,
+2023,GNB,Guinea-Bissau,0,904,0.0,False,
+2023,GNQ,Equatorial Guinea,0,796,0.0,False,
+2023,GRC,Greece,1,2375,0.4210526315789474,False,90.08359
+2023,GRD,Grenada,0,2777,0.0,False,
+2023,GTM,Guatemala,0,2567,0.0,False,
+2023,GUY,Guyana,20,2559,7.815552950371238,False,
+2023,HND,Honduras,0,1516,0.0,False,
+2023,HRV,Croatia,5,1639,3.050640634533252,False,83.345314
+2023,HTI,Haiti,0,2096,0.0,False,
+2023,HUN,Hungary,0,1397,0.0,False,74.316795
+2023,IDN,Indonesia,0,1203,0.0,True,86.88792
+2023,IND,India,0,1720,0.0,False,94.21644
+2023,IRL,Ireland,0,2064,0.0,False,87.804146
+2023,IRN,Iran (Islamic Republic of),1,3273,0.30553009471432935,True,98.746445
+2023,IRQ,Iraq,1,2393,0.41788549937317176,True,
+2023,ISL,Iceland,0,2178,0.0,False,
+2023,ISR,Israel,1,2715,0.3683241252302026,False,96.65698
+2023,ITA,Italy,0,1935,0.0,False,86.024796
+2023,JAM,Jamaica,3,3152,0.9517766497461929,False,
+2023,JOR,Jordan,0,1202,0.0,False,
+2023,JPN,Japan,3,2077,1.4443909484833894,False,87.770065
+2023,KAZ,Kazakhstan,3,1996,1.503006012024048,True,98.24233
+2023,KEN,Kenya,1,2606,0.3837298541826554,False,
+2023,KGZ,Kyrgyzstan,0,2578,0.0,False,
+2023,KHM,Cambodia,1,1389,0.7199424046076314,False,
+2023,KIR,Kiribati,0,1792,0.0,False,
+2023,KNA,Saint Kitts and Nevis,1,2015,0.49627791563275436,False,
+2023,KOR,Republic of Korea,7,1777,3.9392234102419805,False,81.78873
+2023,KWT,Kuwait,2,1872,1.0683760683760686,True,99.96581
+2023,LAO,Lao People's Democratic Republic,1,1571,0.6365372374283895,False,
+2023,LBN,Lebanon,0,1559,0.0,False,
+2023,LBR,Liberia,0,1428,0.0,False,
+2023,LBY,Libya,0,730,0.0,False,
+2023,LCA,Saint Lucia,0,2679,0.0,False,
+2023,LIE,Liechtenstein,0,1935,0.0,False,
+2023,LKA,Sri Lanka,3,1972,1.5212981744421907,False,
+2023,LSO,Lesotho,2,1880,1.0638297872340425,False,
+2023,LTU,Lithuania,2,1294,1.5455950540958268,False,88.24324
+2023,LUX,Luxembourg,0,2331,0.0,False,90.44361
+2023,LVA,Latvia,0,1644,0.0,False,80.86134
+2023,MAR,Morocco,0,2261,0.0,False,96.56919
+2023,MCO,Monaco,0,1844,0.0,False,
+2023,MDA,Republic of Moldova,1,1042,0.9596928982725528,False,
+2023,MDV,Maldives,1,2012,0.49701789264413515,False,
+2023,MEX,Mexico,0,3301,0.0,True,92.93159
+2023,MHL,Marshall Islands,1,2087,0.4791566842357451,False,
+2023,MKD,North Macedonia,0,1754,0.0,False,91.92372
+2023,MLI,Mali,0,3343,0.0,False,
+2023,MLT,Malta,0,3464,0.0,False,
+2023,MNE,Montenegro,0,1698,0.0,False,
+2023,MNG,Mongolia,1,2423,0.41271151465125877,False,
+2023,MOZ,Mozambique,7,1890,3.7037037037037037,False,
+2023,MRT,Mauritania,3,1542,1.9455252918287937,False,
+2023,MUS,Mauritius,6,2018,2.973240832507433,False,
+2023,MWI,Malawi,0,1446,0.0,False,
+2023,MYS,Malaysia,3,1653,1.8148820326678765,False,95.52536
+2023,NAM,Namibia,6,1589,3.775959723096287,False,
+2023,NGA,Nigeria,0,1561,0.0,False,
+2023,NIC,Nicaragua,0,2257,0.0,False,
+2023,NLD,Netherlands (Kingdom of the),2,1656,1.2077294685990339,False,88.87197
+2023,NOR,Norway,3,1703,1.7615971814445097,True,49.6093
+2023,NPL,Nepal,3,1928,1.5560165975103732,False,
+2023,NRU,Naoero,2,2559,0.781555295037124,False,
+2023,NZL,New Zealand,1,2478,0.4035512510088781,False,54.928715
+2023,OMN,Oman,1,1056,0.946969696969697,False,99.483116
+2023,PAK,Pakistan,0,1746,0.0,False,85.45645
+2023,PAN,Panama,1,1071,0.9337068160597572,False,
+2023,PER,Peru,0,1846,0.0,False,86.244
+2023,PHL,Philippines,0,2140,0.0,False,80.85605
+2023,PLW,Palau,0,1676,0.0,False,
+2023,PNG,Papua New Guinea,6,4406,1.3617793917385383,False,
+2023,POL,Poland,1,2567,0.38955979742890534,False,92.77981
+2023,PRK,Democratic People's Republic of Korea,0,2456,0.0,False,
+2023,PRT,Portugal,2,1149,1.7406440382941688,False,78.070015
+2023,PRY,Paraguay,0,2116,0.0,False,
+2023,PSE,State of Palestine,0,2232,0.0,False,
+2023,QAT,Qatar,1,2533,0.3947887879984208,True,99.62199
+2023,ROU,Romania,2,1143,1.7497812773403325,False,78.883644
+2023,RUS,Russian Federation,0,3464,0.0,True,89.725174
+2023,RWA,Rwanda,0,805,0.0,False,
+2023,SAU,Saudi Arabia,2,2440,0.819672131147541,True,99.85147
+2023,SDN,Sudan,0,1521,0.0,False,
+2023,SEN,Senegal,2,1237,1.6168148746968471,False,
+2023,SGP,Singapore,0,1859,0.0,False,99.641914
+2023,SLB,Solomon Islands,2,2761,0.7243752263672583,False,
+2023,SLE,Sierra Leone,0,2400,0.0,False,
+2023,SLV,El Salvador,0,2041,0.0,False,
+2023,SMR,San Marino,1,1948,0.513347022587269,False,
+2023,SOM,Somalia,0,1785,0.0,False,
+2023,SRB,Serbia,0,4360,0.0,False,
+2023,SSD,South Sudan,1,846,1.1820330969267139,False,
+2023,STP,Sao Tome and Principe,0,1142,0.0,False,
+2023,SUR,Suriname,0,1597,0.0,False,
+2023,SVK,Slovakia,4,1066,3.75234521575985,False,63.853825
+2023,SVN,Slovenia,0,2057,0.0,False,62.76798
+2023,SWE,Sweden,1,1651,0.6056935190793459,False,34.689316
+2023,SWZ,Eswatini,0,2061,0.0,False,
+2023,SYC,Seychelles,3,1528,1.963350785340314,False,
+2023,SYR,Syrian Arab Republic,0,2463,0.0,False,
+2023,TCD,Chad,0,1466,0.0,False,
+2023,TGO,Togo,4,3376,1.1848341232227488,False,
+2023,THA,Thailand,3,1311,2.288329519450801,False,90.91789
+2023,TJK,Tajikistan,2,1871,1.0689470871191875,False,
+2023,TKM,Turkmenistan,0,1850,0.0,False,
+2023,TLS,Timor-Leste,6,1906,3.1479538300104934,False,
+2023,TON,Tonga,0,2932,0.0,False,
+2023,TTO,Trinidad and Tobago,2,2674,0.7479431563201197,False,99.99619
+2023,TUN,Tunisia,0,1909,0.0,False,
+2023,TUR,Türkiye,0,3690,0.0,False,85.97506
+2023,TUV,Tuvalu,4,2393,1.671541997492687,False,
+2023,TZA,United Republic of Tanzania,2,1581,1.2650221378874131,False,
+2023,UGA,Uganda,0,1793,0.0,False,
+2023,UKR,Ukraine,0,1570,0.0,False,71.26546
+2023,URY,Uruguay,1,1019,0.9813542688910696,False,
+2023,USA,United States of America,2,3621,0.5523336095001381,False,83.422676
+2023,UZB,Uzbekistan,2,2369,0.8442380751371886,False,98.678
+2023,VAT,Holy See,0,2185,0.0,False,
+2023,VCT,Saint Vincent and the Grenadines,0,2596,0.0,False,
+2023,VEN,Venezuela (Bolivarian Republic of),0,3730,0.0,False,87.34165
+2023,VNM,Viet Nam,2,1682,1.1890606420927465,False,89.23728
+2023,VUT,Vanuatu,3,2498,1.2009607686148918,False,
+2023,WSM,Samoa,0,1852,0.0,False,
+2023,YEM,Yemen,0,2167,0.0,False,
+2023,ZAF,South Africa,1,2267,0.44111160123511245,True,95.909256
+2023,ZMB,Zambia,3,1831,1.638448935008192,False,
+2023,ZWE,Zimbabwe,2,1302,1.5360983102918586,False,
+2024,AGO,Angola,2,3154,0.6341154090044389,False,
+2024,ALB,Albania,0,1897,0.0,False,
+2024,AND,Andorra,3,2253,1.3315579227696406,False,
+2024,ARE,United Arab Emirates,1,2044,0.4892367906066536,True,90.43786
+2024,ARG,Argentina,1,1867,0.5356186395286556,False,88.28498
+2024,ARM,Armenia,0,1528,0.0,False,
+2024,ATG,Antigua and Barbuda,0,2460,0.0,False,
+2024,AUS,Australia,2,3428,0.5834305717619602,True,92.884605
+2024,AUT,Austria,0,1249,0.0,False,73.411736
+2024,AZE,Azerbaijan,5,2360,2.1186440677966103,False,98.08938
+2024,BDI,Burundi,0,1909,0.0,False,
+2024,BEL,Belgium,0,1293,0.0,False,78.285255
+2024,BEN,Benin,0,1233,0.0,False,
+2024,BFA,Burkina Faso,0,1695,0.0,False,
+2024,BGD,Bangladesh,1,3158,0.31665611146295125,False,99.53364
+2024,BGR,Bulgaria,1,1454,0.687757909215956,False,65.87854
+2024,BHR,Bahrain,0,1612,0.0,False,
+2024,BHS,Bahamas,2,1830,1.092896174863388,False,
+2024,BIH,Bosnia and Herzegovina,1,1312,0.7621951219512195,False,
+2024,BLR,Belarus,0,1895,0.0,False,84.320786
+2024,BLZ,Belize,0,1906,0.0,False,
+2024,BOL,Bolivia (Plurinational State of),0,1597,0.0,False,
+2024,BRA,Brazil,4,2057,1.9445794846864364,True,62.594772
+2024,BRB,Barbados,0,2577,0.0,False,
+2024,BTN,Bhutan,0,1056,0.0,False,
+2024,BWA,Botswana,0,1587,0.0,False,
+2024,CAF,Central African Republic,0,1278,0.0,False,
+2024,CAN,Canada,0,2152,0.0,False,78.055084
+2024,CHE,Switzerland,0,1181,0.0,False,51.955696
+2024,CHL,Chile,1,1896,0.5274261603375527,False,80.15193
+2024,CHN,China,2,2689,0.7437709185570844,False,88.71135
+2024,CIV,Côte d’Ivoire,1,1059,0.9442870632672333,False,
+2024,CMR,Cameroon,1,1625,0.6153846153846154,False,
+2024,COD,Democratic Republic of the Congo,4,2811,1.422981145499822,False,
+2024,COG,Congo,0,1144,0.0,False,
+2024,COL,Colombia,1,1957,0.510986203372509,False,85.318855
+2024,COM,Comoros,0,1473,0.0,False,
+2024,CPV,Cabo Verde,0,1485,0.0,False,
+2024,CRI,Costa Rica,0,1458,0.0,False,
+2024,CUB,Cuba,0,1482,0.0,False,
+2024,CYP,Cyprus,0,2582,0.0,False,
+2024,CZE,Czechia,0,1074,0.0,False,71.30819
+2024,DEU,Germany,0,2407,0.0,False,84.92198
+2024,DJI,Djibouti,2,1885,1.0610079575596816,False,
+2024,DNK,Denmark,0,1586,0.0,False,68.264984
+2024,DOM,Dominican Republic,2,1536,1.3020833333333333,False,
+2024,DZA,Algeria,0,1418,0.0,True,99.91017
+2024,ECU,Ecuador,0,1482,0.0,False,87.28595
+2024,EGY,Egypt,1,1895,0.5277044854881267,False,97.41197
+2024,ERI,Eritrea,0,1180,0.0,False,
+2024,ESP,Spain,2,2810,0.7117437722419929,False,74.16838
+2024,EST,Estonia,0,2151,0.0,False,87.554405
+2024,ETH,Ethiopia,1,1373,0.7283321194464676,False,
+2024,EU,,0,2097,0.0,False,
+2024,FIN,Finland,0,2098,0.0,False,42.246563
+2024,FJI,Fiji,1,1628,0.6142506142506142,False,
+2024,FRA,France,2,3004,0.6657789613848203,False,45.666214
+2024,FSM,Micronesia (Federated States of),1,2521,0.3966679888932963,False,
+2024,GAB,Gabon,0,1136,0.0,False,
+2024,GBR,United Kingdom of Great Britain and Northern Ireland,4,1961,2.039775624681285,False,78.92503
+2024,GEO,Georgia,0,1213,0.0,False,
+2024,GHA,Ghana,0,1907,0.0,False,
+2024,GIN,Guinea,1,2457,0.40700040700040696,False,
+2024,GMB,Gambia,0,1819,0.0,False,
+2024,GNB,Guinea-Bissau,0,893,0.0,False,
+2024,GNQ,Equatorial Guinea,0,1053,0.0,False,
+2024,GRC,Greece,0,2853,0.0,False,88.7528
+2024,GRD,Grenada,0,2141,0.0,False,
+2024,GTM,Guatemala,0,2290,0.0,False,
+2024,GUY,Guyana,0,2017,0.0,False,
+2024,HND,Honduras,0,1202,0.0,False,
+2024,HRV,Croatia,3,2897,1.0355540214014498,False,84.72064
+2024,HTI,Haiti,0,2862,0.0,False,
+2024,HUN,Hungary,0,2342,0.0,False,73.14698
+2024,IDN,Indonesia,0,1287,0.0,True,87.44992
+2024,IND,India,0,1672,0.0,False,93.87304
+2024,IRL,Ireland,0,1678,0.0,False,87.222626
+2024,IRN,Iran (Islamic Republic of),0,1770,0.0,True,98.842606
+2024,IRQ,Iraq,1,1819,0.5497526113249038,True,
+2024,ISL,Iceland,0,2579,0.0,False,
+2024,ISR,Israel,0,3959,0.0,False,95.8173
+2024,ITA,Italy,1,1747,0.5724098454493417,False,85.11033
+2024,JAM,Jamaica,1,2587,0.38654812524159254,False,
+2024,JOR,Jordan,0,1491,0.0,False,
+2024,JPN,Japan,4,2277,1.756697408871322,False,86.80716
+2024,KAZ,Kazakhstan,1,1505,0.6644518272425249,True,97.9453
+2024,KEN,Kenya,3,2912,1.0302197802197803,False,
+2024,KGZ,Kyrgyzstan,4,2398,1.6680567139282736,False,
+2024,KHM,Cambodia,2,1775,1.1267605633802817,False,
+2024,KIR,Kiribati,0,2960,0.0,False,
+2024,KNA,Saint Kitts and Nevis,2,2478,0.8071025020177562,False,
+2024,KOR,Republic of Korea,0,729,0.0,False,81.212456
+2024,KWT,Kuwait,0,1928,0.0,True,99.96879
+2024,LAO,Lao People's Democratic Republic,0,2063,0.0,False,
+2024,LBN,Lebanon,0,1705,0.0,False,
+2024,LBR,Liberia,0,1910,0.0,False,
+2024,LBY,Libya,0,1209,0.0,False,
+2024,LCA,Saint Lucia,0,2083,0.0,False,
+2024,LIE,Liechtenstein,0,1714,0.0,False,
+2024,LKA,Sri Lanka,3,1934,1.5511892450879006,False,
+2024,LSO,Lesotho,3,1762,1.70261066969353,False,
+2024,LTU,Lithuania,0,1368,0.0,False,84.95318
+2024,LUX,Luxembourg,0,1586,0.0,False,89.755646
+2024,LVA,Latvia,0,1381,0.0,False,80.14976
+2024,MAR,Morocco,0,2035,0.0,False,95.699
+2024,MCO,Monaco,0,1505,0.0,False,
+2024,MDA,Republic of Moldova,1,1495,0.6688963210702341,False,
+2024,MDG,Madagascar,3,1312,2.2865853658536586,False,
+2024,MDV,Maldives,2,2359,0.8478168715557439,False,
+2024,MEX,Mexico,0,1744,0.0,True,92.88851
+2024,MHL,Marshall Islands,4,1977,2.0232675771370765,False,
+2024,MKD,North Macedonia,1,2470,0.4048582995951417,False,90.26527
+2024,MLI,Mali,0,1650,0.0,False,
+2024,MLT,Malta,0,3444,0.0,False,
+2024,MNE,Montenegro,0,2372,0.0,False,
+2024,MNG,Mongolia,0,2532,0.0,False,
+2024,MOZ,Mozambique,0,1376,0.0,False,
+2024,MRT,Mauritania,2,1457,1.3726835964310227,False,
+2024,MUS,Mauritius,0,1322,0.0,False,
+2024,MWI,Malawi,1,1550,0.6451612903225806,False,
+2024,MYS,Malaysia,0,2003,0.0,False,95.34133
+2024,NAM,Namibia,2,814,2.457002457002457,False,
+2024,NER,Niger,0,1342,0.0,False,
+2024,NGA,Nigeria,4,2957,1.3527223537368955,False,
+2024,NIC,Nicaragua,0,2331,0.0,False,
+2024,NLD,Netherlands (Kingdom of the),0,1980,0.0,False,88.472145
+2024,NOR,Norway,0,1694,0.0,True,47.33618
+2024,NPL,Nepal,1,2019,0.49529470034670625,False,
+2024,NRU,Naoero,4,1580,2.5316455696202533,False,
+2024,NZL,New Zealand,0,1715,0.0,False,52.443665
+2024,OMN,Oman,3,836,3.5885167464114835,False,99.46262
+2024,PAK,Pakistan,1,1534,0.651890482398957,False,84.36472
+2024,PAN,Panama,0,1986,0.0,False,
+2024,PER,Peru,3,1876,1.5991471215351811,False,85.6556
+2024,PHL,Philippines,0,1818,0.0,False,81.45409
+2024,PLW,Palau,2,1344,1.488095238095238,False,
+2024,PNG,Papua New Guinea,0,2200,0.0,False,
+2024,POL,Poland,0,1337,0.0,False,91.99343
+2024,PRK,Democratic People's Republic of Korea,0,2017,0.0,False,
+2024,PRT,Portugal,3,1924,1.5592515592515594,False,74.733635
+2024,PRY,Paraguay,1,2841,0.3519887363604365,False,
+2024,PSE,State of Palestine,0,1648,0.0,False,
+2024,QAT,Qatar,0,2263,0.0,True,99.618965
+2024,ROU,Romania,2,1172,1.7064846416382253,False,80.26724
+2024,RUS,Russian Federation,0,2972,0.0,True,89.86718
+2024,RWA,Rwanda,2,1078,1.8552875695732838,False,
+2024,SAU,Saudi Arabia,2,1859,1.0758472296933834,True,99.66258
+2024,SDN,Sudan,0,1621,0.0,False,
+2024,SEN,Senegal,2,1146,1.7452006980802792,False,
+2024,SGP,Singapore,1,1985,0.5037783375314862,False,99.607445
+2024,SLB,Solomon Islands,0,2308,0.0,False,
+2024,SLE,Sierra Leone,0,2074,0.0,False,
+2024,SLV,El Salvador,0,1335,0.0,False,
+2024,SMR,San Marino,1,2560,0.390625,False,
+2024,SOM,Somalia,3,2009,1.4932802389248383,False,
+2024,SRB,Serbia,0,2788,0.0,False,
+2024,SSD,South Sudan,0,2320,0.0,False,
+2024,STP,Sao Tome and Principe,0,1263,0.0,False,
+2024,SUR,Suriname,3,1551,1.9342359767891684,False,
+2024,SVK,Slovakia,1,1913,0.5227391531625718,False,62.10076
+2024,SVN,Slovenia,0,1632,0.0,False,63.165527
+2024,SWE,Sweden,0,1853,0.0,False,36.28461
+2024,SWZ,Eswatini,5,1912,2.615062761506276,False,
+2024,SYC,Seychelles,2,1737,1.1514104778353484,False,
+2024,SYR,Syrian Arab Republic,0,2795,0.0,False,
+2024,TCD,Chad,0,1355,0.0,False,
+2024,TGO,Togo,1,1054,0.9487666034155597,False,
+2024,THA,Thailand,0,1535,0.0,False,91.12589
+2024,TJK,Tajikistan,3,1879,1.5965939329430547,False,
+2024,TKM,Turkmenistan,0,1471,0.0,False,
+2024,TLS,Timor-Leste,0,1918,0.0,False,
+2024,TON,Tonga,0,2737,0.0,False,
+2024,TTO,Trinidad and Tobago,2,2770,0.7220216606498194,False,99.99563
+2024,TUN,Tunisia,0,1790,0.0,False,
+2024,TUR,Türkiye,0,4031,0.0,False,85.399826
+2024,TUV,Tuvalu,1,2816,0.35511363636363635,False,
+2024,TZA,United Republic of Tanzania,2,1751,1.1422044545973729,False,
+2024,UGA,Uganda,0,2148,0.0,False,
+2024,UKR,Ukraine,0,1656,0.0,False,71.38856
+2024,URY,Uruguay,0,1481,0.0,False,
+2024,USA,United States of America,2,3286,0.6086427267194157,False,83.05894
+2024,UZB,Uzbekistan,0,1629,0.0,False,97.744064
+2024,VAT,Holy See,0,5453,0.0,False,
+2024,VCT,Saint Vincent and the Grenadines,0,2284,0.0,False,
+2024,VEN,Venezuela (Bolivarian Republic of),0,2938,0.0,False,87.15975
+2024,VNM,Viet Nam,2,1134,1.763668430335097,False,89.074486
+2024,VUT,Vanuatu,0,1760,0.0,False,
+2024,WSM,Samoa,0,1426,0.0,False,
+2024,YEM,Yemen,0,1662,0.0,False,
+2024,ZAF,South Africa,2,1685,1.1869436201780414,True,95.98545
+2024,ZMB,Zambia,0,2111,0.0,False,
+2024,ZWE,Zimbabwe,1,1652,0.6053268765133172,False,
+2025,AGO,Angola,1,2739,0.36509675063891933,False,
+2025,ALB,Albania,2,1616,1.2376237623762376,False,
+2025,AND,Andorra,1,2752,0.3633720930232558,False,
+2025,ARE,United Arab Emirates,1,1411,0.7087172218284905,True,90.47492
+2025,ARG,Argentina,0,2830,0.0,False,88.010315
+2025,ARM,Armenia,0,2885,0.0,False,
+2025,ATG,Antigua and Barbuda,1,2178,0.4591368227731864,False,
+2025,AUS,Australia,6,2422,2.477291494632535,True,92.11152
+2025,AUT,Austria,0,1413,0.0,False,75.32314
+2025,AZE,Azerbaijan,4,1832,2.1834061135371177,False,98.00593
+2025,BDI,Burundi,0,1716,0.0,False,
+2025,BEL,Belgium,0,839,0.0,False,80.999146
+2025,BEN,Benin,1,2006,0.4985044865403788,False,
+2025,BFA,Burkina Faso,0,2914,0.0,False,
+2025,BGD,Bangladesh,1,4666,0.2143163309044149,False,99.53809
+2025,BGR,Bulgaria,0,1612,0.0,False,66.46689
+2025,BHR,Bahrain,3,2039,1.4713094654242276,False,
+2025,BHS,Bahamas,0,1694,0.0,False,
+2025,BIH,Bosnia and Herzegovina,0,3485,0.0,False,
+2025,BLR,Belarus,0,3531,0.0,False,82.78912
+2025,BLZ,Belize,3,1998,1.5015015015015014,False,
+2025,BOL,Bolivia (Plurinational State of),0,2769,0.0,False,
+2025,BRA,Brazil,1,1878,0.5324813631522897,True,62.31557
+2025,BRB,Barbados,0,4047,0.0,False,
+2025,BRN,Brunei Darussalam,0,1321,0.0,False,
+2025,BTN,Bhutan,8,1389,5.759539236861051,False,
+2025,BWA,Botswana,1,978,1.0224948875255624,False,
+2025,CAF,Central African Republic,0,2354,0.0,False,
+2025,CAN,Canada,1,1704,0.5868544600938967,False,78.05161
+2025,CHE,Switzerland,0,1293,0.0,False,56.619236
+2025,CHL,Chile,0,2965,0.0,False,81.63268
+2025,CHN,China,2,1940,1.0309278350515465,False,87.54564
+2025,CIV,Côte d’Ivoire,0,1976,0.0,False,
+2025,CMR,Cameroon,1,1699,0.5885815185403178,False,
+2025,COD,Democratic Republic of the Congo,2,3356,0.5959475566150179,False,
+2025,COG,Congo,0,1615,0.0,False,
+2025,COL,Colombia,9,4085,2.203182374541004,False,81.39599
+2025,COM,Comoros,1,1970,0.5076142131979696,False,
+2025,CPV,Cabo Verde,0,1060,0.0,False,
+2025,CRI,Costa Rica,2,1734,1.1534025374855825,False,
+2025,CUB,Cuba,0,2735,0.0,False,
+2025,CYP,Cyprus,0,1964,0.0,False,
+2025,CZE,Czechia,0,1233,0.0,False,70.19163
+2025,DEU,Germany,1,1628,0.6142506142506142,False,84.83469
+2025,DJI,Djibouti,0,2289,0.0,False,
+2025,DNK,Denmark,3,1456,2.0604395604395607,False,66.05192
+2025,DOM,Dominican Republic,0,1594,0.0,False,
+2025,DZA,Algeria,0,2213,0.0,True,99.91356
+2025,ECU,Ecuador,0,1847,0.0,False,84.83236
+2025,EGY,Egypt,0,2261,0.0,False,96.9054
+2025,ERI,Eritrea,0,1111,0.0,False,
+2025,ESP,Spain,2,2279,0.8775778850372971,False,74.42343
+2025,EST,Estonia,2,1988,1.006036217303823,False,86.52007
+2025,ETH,Ethiopia,4,1466,2.728512960436562,False,
+2025,FIN,Finland,0,2423,0.0,False,41.53377
+2025,FJI,Fiji,2,3002,0.6662225183211192,False,
+2025,FRA,France,0,4338,0.0,False,44.6191
+2025,FSM,Micronesia (Federated States of),2,1865,1.0723860589812333,False,
+2025,GAB,Gabon,0,1389,0.0,False,
+2025,GBR,United Kingdom of Great Britain and Northern Ireland,0,1757,0.0,False,78.875755
+2025,GEO,Georgia,0,1439,0.0,False,
+2025,GHA,Ghana,0,2969,0.0,False,
+2025,GIN,Guinea,1,1259,0.7942811755361397,False,
+2025,GMB,Gambia,1,3639,0.2748007694421544,False,
+2025,GNB,Guinea-Bissau,0,903,0.0,False,
+2025,GNQ,Equatorial Guinea,0,1226,0.0,False,
+2025,GRC,Greece,2,3251,0.6151953245155337,False,89.63744
+2025,GRD,Grenada,2,2702,0.7401924500370096,False,
+2025,GTM,Guatemala,0,2505,0.0,False,
+2025,GUY,Guyana,2,2220,0.9009009009009009,False,
+2025,HND,Honduras,0,1609,0.0,False,
+2025,HRV,Croatia,1,1801,0.5552470849528041,False,85.63198
+2025,HTI,Haiti,2,2486,0.8045052292839903,False,
+2025,HUN,Hungary,0,2062,0.0,False,72.11178
+2025,IDN,Indonesia,3,1873,1.601708489054992,True,88.31945
+2025,IND,India,0,1653,0.0,False,92.99307
+2025,IRL,Ireland,0,2433,0.0,False,85.98763
+2025,IRN,Iran (Islamic Republic of),0,2191,0.0,True,99.138695
+2025,IRQ,Iraq,2,2552,0.7836990595611285,True,
+2025,ISL,Iceland,1,1982,0.5045408678102926,False,
+2025,ISR,Israel,0,4567,0.0,False,94.56493
+2025,ITA,Italy,1,2238,0.44682752457551383,False,84.525635
+2025,JAM,Jamaica,2,1287,1.554001554001554,False,
+2025,JOR,Jordan,0,1241,0.0,False,
+2025,JPN,Japan,0,3067,0.0,False,85.67848
+2025,KAZ,Kazakhstan,2,2381,0.8399832003359933,True,98.065865
+2025,KEN,Kenya,1,3418,0.29256875365710944,False,
+2025,KGZ,Kyrgyzstan,0,2855,0.0,False,
+2025,KHM,Cambodia,0,1670,0.0,False,
+2025,KIR,Kiribati,4,1430,2.797202797202797,False,
+2025,KNA,Saint Kitts and Nevis,1,3174,0.315059861373661,False,
+2025,KOR,Republic of Korea,2,2407,0.8309098462816784,False,81.26977
+2025,KWT,Kuwait,0,2298,0.0,True,99.98068
+2025,LAO,Lao People's Democratic Republic,0,1659,0.0,False,
+2025,LBN,Lebanon,0,2459,0.0,False,
+2025,LBR,Liberia,0,1453,0.0,False,
+2025,LBY,Libya,0,1235,0.0,False,
+2025,LCA,Saint Lucia,0,2718,0.0,False,
+2025,LIE,Liechtenstein,0,1875,0.0,False,
+2025,LKA,Sri Lanka,0,1962,0.0,False,
+2025,LSO,Lesotho,4,1984,2.0161290322580645,False,
+2025,LTU,Lithuania,0,1586,0.0,False,81.718376
+2025,LUX,Luxembourg,0,1022,0.0,False,90.36173
+2025,LVA,Latvia,0,1473,0.0,False,80.10498
+2025,MAR,Morocco,1,2000,0.5,False,95.826485
+2025,MCO,Monaco,0,1497,0.0,False,
+2025,MDA,Republic of Moldova,0,827,0.0,False,
+2025,MDG,Madagascar,3,2924,1.0259917920656634,False,
+2025,MDV,Maldives,1,1521,0.6574621959237344,False,
+2025,MEX,Mexico,0,1851,0.0,True,92.9105
+2025,MHL,Marshall Islands,1,1900,0.5263157894736842,False,
+2025,MKD,North Macedonia,0,1922,0.0,False,87.01913
+2025,MLI,Mali,0,3954,0.0,False,
+2025,MLT,Malta,0,3469,0.0,False,
+2025,MNE,Montenegro,0,1880,0.0,False,
+2025,MNG,Mongolia,0,2485,0.0,False,
+2025,MOZ,Mozambique,0,2152,0.0,False,
+2025,MRT,Mauritania,2,1697,1.1785503830288744,False,
+2025,MUS,Mauritius,0,1709,0.0,False,
+2025,MWI,Malawi,0,1944,0.0,False,
+2025,MYS,Malaysia,0,1430,0.0,False,95.25908
+2025,NAM,Namibia,0,1709,0.0,False,
+2025,NER,Niger,0,3714,0.0,False,
+2025,NGA,Nigeria,0,2591,0.0,False,
+2025,NIC,Nicaragua,0,1431,0.0,False,
+2025,NLD,Netherlands (Kingdom of the),0,1583,0.0,False,88.00492
+2025,NOR,Norway,1,1832,0.5458515283842794,True,46.9102
+2025,NPL,Nepal,1,2184,0.45787545787545786,False,
+2025,NRU,Naoero,3,1623,1.8484288354898337,False,
+2025,NZL,New Zealand,0,1807,0.0,False,49.536633
+2025,OMN,Oman,1,1145,0.8733624454148472,False,98.945595
+2025,PAK,Pakistan,0,2497,0.0,False,82.43932
+2025,PAN,Panama,1,1727,0.5790387955993052,False,
+2025,PER,Peru,0,2367,0.0,False,84.818985
+2025,PHL,Philippines,0,1978,0.0,False,80.8692
+2025,PLW,Palau,2,1427,1.4015416958654519,False,
+2025,PNG,Papua New Guinea,0,2118,0.0,False,
+2025,POL,Poland,0,3014,0.0,False,91.6688
+2025,PRK,Democratic People's Republic of Korea,0,1805,0.0,False,
+2025,PRT,Portugal,0,1910,0.0,False,75.40865
+2025,PRY,Paraguay,0,3306,0.0,False,
+2025,PSE,State of Palestine,0,2094,0.0,False,
+2025,QAT,Qatar,0,1873,0.0,True,99.3744
+2025,ROU,Romania,2,2361,0.8470986869970352,False,80.13228
+2025,RUS,Russian Federation,0,2994,0.0,True,89.8233
+2025,RWA,Rwanda,0,1792,0.0,False,
+2025,SAU,Saudi Arabia,2,2807,0.7125044531528322,True,99.40821
+2025,SDN,Sudan,0,1886,0.0,False,
+2025,SEN,Senegal,0,1369,0.0,False,
+2025,SGP,Singapore,0,1981,0.0,False,99.59212
+2025,SLB,Solomon Islands,1,3378,0.29603315571343986,False,
+2025,SLE,Sierra Leone,1,2156,0.46382189239332094,False,
+2025,SMR,San Marino,1,2745,0.36429872495446264,False,
+2025,SOM,Somalia,0,1786,0.0,False,
+2025,SRB,Serbia,3,3526,0.8508224617129893,False,
+2025,SSD,South Sudan,1,3136,0.31887755102040816,False,
+2025,STP,Sao Tome and Principe,0,2426,0.0,False,
+2025,SUR,Suriname,2,2095,0.9546539379474941,False,
+2025,SVK,Slovakia,0,1577,0.0,False,61.979324
+2025,SVN,Slovenia,0,1901,0.0,False,63.18969
+2025,SWE,Sweden,0,1622,0.0,False,36.930458
+2025,SWZ,Eswatini,0,1687,0.0,False,
+2025,SYR,Syrian Arab Republic,0,1113,0.0,False,
+2025,TCD,Chad,0,3565,0.0,False,
+2025,TGO,Togo,0,3185,0.0,False,
+2025,THA,Thailand,0,2477,0.0,False,92.173935
+2025,TJK,Tajikistan,0,1622,0.0,False,
+2025,TKM,Turkmenistan,0,1602,0.0,False,
+2025,TLS,Timor-Leste,2,2732,0.7320644216691069,False,
+2025,TON,Tonga,0,2004,0.0,False,
+2025,TTO,Trinidad and Tobago,1,2071,0.48285852245292127,False,99.90252
+2025,TUN,Tunisia,0,3070,0.0,False,
+2025,TUR,Türkiye,2,3825,0.5228758169934641,False,85.901405
+2025,TUV,Tuvalu,2,3139,0.6371455877668047,False,
+2025,TZA,United Republic of Tanzania,1,1513,0.6609385327164573,False,
+2025,UGA,Uganda,0,1443,0.0,False,
+2025,UKR,Ukraine,0,2216,0.0,False,72.216064
+2025,URY,Uruguay,0,1696,0.0,False,
+2025,USA,United States of America,5,8242,0.6066488716330988,False,83.17084
+2025,UZB,Uzbekistan,1,1736,0.576036866359447,False,97.15563
+2025,VAT,Holy See,1,1766,0.5662514156285391,False,
+2025,VCT,Saint Vincent and the Grenadines,0,1842,0.0,False,
+2025,VEN,Venezuela (Bolivarian Republic of),0,2025,0.0,False,86.980286
+2025,VNM,Viet Nam,1,1508,0.6631299734748011,False,88.20796
+2025,VUT,Vanuatu,0,1602,0.0,False,
+2025,WSM,Samoa,1,1943,0.514668039114771,False,
+2025,YEM,Yemen,0,1728,0.0,False,
+2025,ZAF,South Africa,2,2291,0.8729812309035355,True,95.2682
+2025,ZMB,Zambia,0,2052,0.0,False,
+2025,ZWE,Zimbabwe,1,1794,0.5574136008918618,False,
